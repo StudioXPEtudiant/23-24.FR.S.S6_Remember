@@ -18,7 +18,7 @@ public class PlayerMovement : MonoBehaviour
     private void Awake()
     {
         _defaultPlayerActions = new DefaultPlayerActions();
-        rb =  GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
     private void OnEnable()
