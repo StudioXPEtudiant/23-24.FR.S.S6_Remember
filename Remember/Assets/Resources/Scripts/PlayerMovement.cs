@@ -12,6 +12,7 @@ public class PlayerMovement : MonoBehaviour
     private InputAction _lookAction;
 
     private Rigidbody2D rb;
+    [SerializeField] private Animator animator;
 
     [SerializeField] private float _speed = 6f;
 
@@ -19,6 +20,7 @@ public class PlayerMovement : MonoBehaviour
     {
         _defaultPlayerActions = new DefaultPlayerActions();
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     private void OnEnable()
@@ -52,7 +54,12 @@ public class PlayerMovement : MonoBehaviour
         vel.y = _speed * moveDir.y;
         rb.velocity = vel;
 
+        animator.SetFloat("MoveX", moveDir.x);
+        animator.SetFloat("MoveY", moveDir.y);
+        animator.SetBool("IsMoving", moveDir != Vector2.zero);
+
         Vector2 lookDir = _moveAction.ReadValue<Vector2>();
         Debug.Log($"move: {lookDir}");
     }
 }
+
