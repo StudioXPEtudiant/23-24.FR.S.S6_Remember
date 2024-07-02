@@ -43,7 +43,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnFire(InputAction.CallbackContext context)
     {
-
+        //  Code pour les attaques
     }
 
     private void FixedUpdate()
