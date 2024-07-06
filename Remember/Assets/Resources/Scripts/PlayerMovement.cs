@@ -29,6 +29,7 @@ public class PlayerMovement : MonoBehaviour
         _moveAction.Enable();
         _lookAction = _defaultPlayerActions.Player.Look;
         _lookAction.Enable();
+
         _defaultPlayerActions.Player.Fire.performed += OnFire;
         _defaultPlayerActions.Player.Fire.Enable();
     }
