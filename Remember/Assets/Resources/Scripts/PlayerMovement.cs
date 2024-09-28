@@ -13,6 +13,7 @@ public class PlayerMovement : MonoBehaviour
 
     private Rigidbody2D rb;
     [SerializeField] private Animator animator;
+    private PlayerEquipment playerEquipment;
 
     [SerializeField] private float _speed = 6f;
 
@@ -21,6 +22,7 @@ public class PlayerMovement : MonoBehaviour
         _defaultPlayerActions = new DefaultPlayerActions();
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        playerEquipment = GetComponent<PlayerEquipment>();
     }
 
     private void OnEnable()
@@ -58,6 +60,15 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("MoveX", moveDir.x);
         animator.SetFloat("MoveY", moveDir.y);
         animator.SetBool("IsMoving", moveDir != Vector2.zero);
+
+        if (playerEquipment.armorSpriteRenderer != null)
+        {
+            playerEquipment.armorSpriteRenderer.flipX = moveDir.x < 0;
+        }
+        //if(playerEquipment.weaponSpriteRenderer != null)
+        {
+            //playerEquipment.weaponSpriteRenderer.flipX = moveDir.x < 0;
+        }
 
         Vector2 lookDir = _moveAction.ReadValue<Vector2>();
         Debug.Log($"move: {lookDir}");
