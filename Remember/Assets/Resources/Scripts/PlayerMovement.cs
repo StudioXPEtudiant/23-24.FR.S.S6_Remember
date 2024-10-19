@@ -16,6 +16,9 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField] private float _speed = 6f;
 
+    private float lastMoveX = 0;
+    private float lastMoveY = -1;
+
     private void Awake()
     {
         _defaultPlayerActions = new DefaultPlayerActions();
@@ -51,13 +54,26 @@ public class PlayerMovement : MonoBehaviour
     {
         Vector2 moveDir = _moveAction.ReadValue<Vector2>();
         Vector3 vel = rb.velocity;
+
         vel.x = _speed * moveDir.x;
         vel.y = _speed * moveDir.y;
         rb.velocity = vel;
 
+        if(moveDir != Vector2.zero)
+        {
+            lastMoveX = moveDir.x;
+            lastMoveY = moveDir.y;
+        }
+
         animator.SetFloat("MoveX", moveDir.x);
         animator.SetFloat("MoveY", moveDir.y);
         animator.SetBool("IsMoving", moveDir != Vector2.zero);
+
+        if (moveDir == Vector2.zero)
+        {
+            animator.SetFloat("LastMoveX", lastMoveX);
+            animator.SetFloat("LastMoveY", lastMoveY);
+        }
 
         Vector2 lookDir = _moveAction.ReadValue<Vector2>();
         Debug.Log($"move: {lookDir}");
