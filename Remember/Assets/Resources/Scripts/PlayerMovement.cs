@@ -16,7 +16,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Animator animator;
 
     [SerializeField] private float _walkSpeed = 4f; // Vitesse normale
-    [SerializeField] private float _sprintSpeed = 6f; // Vitesse de sprint
+    [SerializeField] private float _sprintSpeed = 8f; // Vitesse de sprint
 
     private float currentSpeed; // Stocker la vitesse actuelle
 
