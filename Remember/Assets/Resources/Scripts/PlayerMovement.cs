@@ -10,11 +10,15 @@ public class PlayerMovement : MonoBehaviour
 
     private InputAction _moveAction;
     private InputAction _lookAction;
+    private InputAction _sprintAction;
 
     private Rigidbody2D rb;
     [SerializeField] private Animator animator;
 
-    [SerializeField] private float _speed = 6f;
+    [SerializeField] private float _walkSpeed = 4f; // Vitesse normale
+    [SerializeField] private float _sprintSpeed = 6f; // Vitesse de sprint
+
+    private float currentSpeed; // Stocker la vitesse actuelle
 
     private float lastMoveX = 0;
     private float lastMoveY = -1;
@@ -30,6 +34,10 @@ public class PlayerMovement : MonoBehaviour
     {
         _moveAction = _defaultPlayerActions.Player.Move;
         _moveAction.Enable();
+
+        _sprintAction = _defaultPlayerActions.Player.Sprint;
+        _sprintAction.Enable();
+
         _lookAction = _defaultPlayerActions.Player.Look;
         _lookAction.Enable();
 
@@ -41,6 +49,7 @@ public class PlayerMovement : MonoBehaviour
     {
         _moveAction.Disable();
         _lookAction.Disable();
+        _sprintAction.Disable();
         _defaultPlayerActions.Player.Fire.performed -= OnFire;
         _defaultPlayerActions.Player.Fire.Disable();
     }
@@ -52,11 +61,25 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Vector2 moveDir = _moveAction.ReadValue<Vector2>();
-        Vector3 vel = rb.velocity;
+        Vector2 moveDir = _moveAction.ReadValue<Vector2>(); // Lire les valeurs de direction
+        
+        if(_sprintAction.IsPressed())
+        {
+            currentSpeed = _sprintSpeed; // Active la vitesse de sprint
+            animator.SetBool("IsSprinting", moveDir != Vector2.zero);
+            animator.SetBool("IsWalking", false);
+        }
+        else
+        {
+            currentSpeed = _walkSpeed; // Revenir à la vitesse normale
+            animator.SetBool("IsWalking", moveDir != Vector2.zero);
+            animator.SetBool("IsSprinting", false);
+        }
 
-        vel.x = _speed * moveDir.x;
-        vel.y = _speed * moveDir.y;
+        // Aplliquer la vitesse au personnage
+        Vector3 vel = rb.velocity;
+        vel.x = currentSpeed * moveDir.x;
+        vel.y = currentSpeed * moveDir.y;
         rb.velocity = vel;
 
         if(moveDir != Vector2.zero)
@@ -67,7 +90,6 @@ public class PlayerMovement : MonoBehaviour
 
         animator.SetFloat("MoveX", moveDir.x);
         animator.SetFloat("MoveY", moveDir.y);
-        animator.SetBool("IsMoving", moveDir != Vector2.zero);
 
         if (moveDir == Vector2.zero)
         {
