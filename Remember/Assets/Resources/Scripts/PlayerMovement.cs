@@ -113,11 +113,14 @@ public class PlayerMovement : MonoBehaviour
             // On passe la direction de la dernière attaque à l'Animator
             animator.SetFloat("LastMoveX", lastMoveX);
             animator.SetFloat("LastMoveY", lastMoveY);
+
+            animator.SetBool("IsWalking", false); // Désactive la marche pendant l'attaque
         }
     }
 
     public void EndAttack()
     {
+        isAttacking = false;
         animator.SetBool("IsAttacking", false);
     }
 }
