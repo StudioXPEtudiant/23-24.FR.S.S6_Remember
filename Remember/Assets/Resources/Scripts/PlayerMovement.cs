@@ -23,6 +23,7 @@ public class PlayerMovement : MonoBehaviour
     private float lastMoveX = 0;
     private float lastMoveY = -1;
 
+    [Header("Attaque du joueur")]
     private bool isAttacking = false;
 
     private void Awake()
