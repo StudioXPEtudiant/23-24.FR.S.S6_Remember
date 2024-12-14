@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Purchasing;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerMovement : MonoBehaviour
@@ -26,11 +27,15 @@ public class PlayerMovement : MonoBehaviour
     [Header("Attaque du joueur")]
     private bool isAttacking = false;
 
+    public ToggleInventory toggleInventory;
+
     private void Awake()
     {
         _defaultPlayerActions = new DefaultPlayerActions();
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+
+        toggleInventory = GetComponent<ToggleInventory>();
     }
 
     private void OnEnable()
@@ -59,6 +64,9 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (toggleInventory.isInventoryOpen) return; // Si l'inventaire est ouvert, on bloque les mouvements du joueur
+
+
         Vector2 moveDir = _moveAction.ReadValue<Vector2>(); // Lire les valeurs de direction
         
         if(!isAttacking)
@@ -106,6 +114,8 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnFire(InputAction.CallbackContext context)
     {
+        if (toggleInventory.isInventoryOpen) return; // Si l'inventaire est ouvert, on bloque les mouvements du joueur
+
         if (!isAttacking && !animator.GetBool("IsSprinting"))
         {
             isAttacking = true;
