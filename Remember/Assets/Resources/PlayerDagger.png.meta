@@ -1,0 +1,7867 @@
+fileFormatVersion: 2
+guid: a2ff009c200311c49b1c6b72f8cd5bcb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerDagger_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3394
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbca50c1eb738da4c84c35817ccaf575
+      internalID: -1610471770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3394
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee8d281f1198cc44a2def76db466b2e
+      internalID: 104273892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3394
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e78bcdb720410d4889f23d3f881588c
+      internalID: -1038791987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3394
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b862aaac97a4547a3cedcd53fc79cc
+      internalID: 135674961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3394
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7278d9372b9a31e4bbcdf7cd295ebaed
+      internalID: -1943615708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3394
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b43d7a472d368341b08118095a90855
+      internalID: -1196088650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 3394
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fd49830a624424591af95588f5e238
+      internalID: -600146453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3330
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ba8f33bc1adc0428f230f45f1d512c
+      internalID: 585497906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3330
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb85f1918fc1f23408aa7c0b7d39b4b5
+      internalID: -106988349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3330
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da6f6063433364449f62b759de9ae01
+      internalID: -1885815242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3330
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c308c143d9ac245a9c63505b5600f9
+      internalID: 359369066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3330
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd3e5bdaaa7c7f4894fe1b1577142e6
+      internalID: -1215820617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3330
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57946b3f0f43f77438785bb4a019547e
+      internalID: 918863932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 3330
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d092181fa65cc648b3b2cc588095d0a
+      internalID: 203763591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3266
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a579fcf05f95344f9dc4ffe478fc95f
+      internalID: 1409846798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3266
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dd4c8dae6fb154fa24592b4030fd15
+      internalID: 258091728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3266
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f87b1e9d43395449e639e3ebfdc410
+      internalID: 2133205940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3266
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41ea0c02cf83924888335ed282c6a2c
+      internalID: 409775491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3266
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bf63d90e775014096dc24edb13ec0e
+      internalID: 340821177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3266
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024c0e3298d0d854e9fcb9599b277aaa
+      internalID: -1423340618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3266
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1758217bcc0e144499a9cfbbff73704b
+      internalID: -842646229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3202
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b0e7c3f9033d548b8bb22079414d8f
+      internalID: 366758930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3202
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1310b95342b689f438795069e73014b5
+      internalID: 1302182448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3202
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2b25efb60c75c4582806aa4d949e52
+      internalID: -169226899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3202
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419dfbc32d5f40f49a0426bbe17ec7a6
+      internalID: 293119893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3202
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d206ba499ab42745876ba7bc3622e31
+      internalID: 1714579851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3202
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bee99d6e1ec104a80fc9372063adba
+      internalID: -42668568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3202
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7776b949c05cfb34aa0f89b568f5c099
+      internalID: 184530747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3138
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a732cb714d54b2b4381a82f6d10c3c14
+      internalID: 1508791764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3136
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f68b3bfdcd0c7b4b8f6b2cdced456c5
+      internalID: 1675524013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3136
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecea71cd63b02a445a0b9e5be80884d3
+      internalID: -150542161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3136
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec1fee635721bb4aa1a79047e10ad65
+      internalID: -1243567501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3136
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4b38d6d018fd24198f3f60bbdbcce5
+      internalID: -846376951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 3136
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6d237b01a609b4a88d9a7212ce9755
+      internalID: 1860720188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3136
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5508a49ac80ee34caa70ecba0d09f2a
+      internalID: 82497363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 3136
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ea5f1bf8ac087439affe8854908ae7
+      internalID: 503349709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3074
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91afbd5aad42b5e4eb00854f8247bd2a
+      internalID: 1107668065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3074
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76533a20b50c044eac0e0e9edb0385b
+      internalID: -1442759558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3074
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85b5a004918ea44a9890c3bdc8dc4dc
+      internalID: 687719530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3074
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be36935df36ed3439c42330cf9e6679
+      internalID: -506995570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_40
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3074
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1744edf3b04206940b197e2beb232ea1
+      internalID: 227965448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_41
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3074
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101b6c46d24634a45bced297cc7ba974
+      internalID: 1910629085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_42
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3074
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c263c95de56cf69498f8ec20fdffbd42
+      internalID: -396093048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_43
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3074
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d67db99a8b5174dac5c22efd062b1a
+      internalID: 1959516343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3010
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d2e0bfc0c96d4a9d4aba2ce4f4df1
+      internalID: 1586230796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3011
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9020c4cec0b8641b13dbec84eb8fca
+      internalID: -590711735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3011
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468059590fe54484ab97c4379ba50681
+      internalID: -387771153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3011
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8312f3f73970a842847b19c71f24642
+      internalID: 657817728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 3011
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1cce327897f2b46a0782e840da0a17
+      internalID: 1708030569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 3010
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7b87a68aad4b14cb0f58888610ff43
+      internalID: 361697032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3011
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5adc239e48b1364b8e36de59801ac1a
+      internalID: -149357966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3011
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb620d5ccd952349b08dd02649dc4c1
+      internalID: -2043782409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2946
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6266db579ce17e54c851591b4554aece
+      internalID: 1973299039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2946
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4549fc90ac15d4a40a0c1e3ffa9c1979
+      internalID: -1452537295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2946
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580b5e9a5c58f824496785e41932ce03
+      internalID: 416016689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2946
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496f033c862d84c479939ca4f4b733dd
+      internalID: 2010949536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2946
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8be3b615c1ec34da83d066b2b73053
+      internalID: -92942976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2946
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b47e1baf038d646b66e511c516c5b2
+      internalID: -1612379498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2946
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a007d12f8d45744ab69c789f79a6aa1
+      internalID: -1247668039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2946
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4765a6a51b9fbf4c9a9d57771b3fd19
+      internalID: 1164443271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2883
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47677119365277244ac3d0bc3a10a908
+      internalID: -1538498096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2883
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e88f8bbb587326429fee880354747df
+      internalID: -2069836817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2882
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f971b16a08d6744a9f58f3fd93d9a5
+      internalID: -1227272627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2881
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c93efdf22c4ba418e19d20c6d453b7
+      internalID: -998109620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2882
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a115ea2ad1e43584f840f58a7a8ffa46
+      internalID: 1036043067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2883
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2163b40ad25567a468233f0f8a557776
+      internalID: -69831855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2882
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754cfdcb61e7ab94b890c30497b4ceac
+      internalID: -1387938349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2881
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1f6e1d2fd56f84ba434d270d917501
+      internalID: 706559589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2882
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c0360679842904384051ae3a11c7b7
+      internalID: -1150400254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_69
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2818
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019b7ff8c92c0b14ea6debaa66a2e3a0
+      internalID: 2071051436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2818
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4257442dbb59eb4c9b8aeecea749fcb
+      internalID: -2046238756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2819
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d456ca8cc8204b439501c3c05665246
+      internalID: -1272605157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2819
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dc957315fcb0f46a157d7c7f281fd1
+      internalID: 652096847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_73
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2818
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f0ff5f85750b428f8a34af9617b49
+      internalID: 1051819936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_74
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2818
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce132278ddce4045b217c38eb417837
+      internalID: 449144370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2818
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f722c2da324f8498131a4c57488ae7
+      internalID: -676897123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2818
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fa90b79e668be45824c7dc103ecf2b
+      internalID: 1479785472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2818
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff497542bd41384c890a6d72572b2f7
+      internalID: -1377288114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2754
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80424b05c24afae4185502c944d53b5c
+      internalID: 1659780789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2754
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d55857f5636464e936e51674566d4a
+      internalID: -1493914387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2753
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23be7ae0a9ec7ba4e9d70f7c25ce541c
+      internalID: -190650460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2753
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78e8729326a868468776ad45894c38d
+      internalID: -20432540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2753
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0520e630a4d7f4a87d460ed5dfe01e
+      internalID: -1352048036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2754
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54ac0aab11b60e4d9d6a7a0571fa4b7
+      internalID: -661042901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2753
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a956e7ae8dc8364cb30f203ea7a9564
+      internalID: 1716860182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2753
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babec5261f38d0442bf0cac6dca1bf05
+      internalID: -1121965911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2753
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818b96e1967af874d93464f05fdceae8
+      internalID: -2031382027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_87
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2690
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532eb680a5a8a99408063224ac4f9b0b
+      internalID: 2054789097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2690
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c82bf139bd443a438965a9e1d132127
+      internalID: 1672115662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2691
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45a5123206ae3c4ca0337b9a74907b5
+      internalID: -581373283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2691
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147e025f33f63c04eb71de550a438400
+      internalID: -1582994728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2690
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e363f26feb21c4eaa6417df5291240
+      internalID: 730840330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2690
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3610cce2a39914e48b9ee93c6372639f
+      internalID: -75804261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2690
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6814251425b37b840873f294c9ba242d
+      internalID: -2013598240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2690
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65745445155e7441befd6b473a6dcd7
+      internalID: -722022971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2690
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8bd2fdc5f8e1043b8ea28c05ce1f16
+      internalID: 798261276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2626
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a750453c6d13247b1af9deb5245828
+      internalID: -1243219543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2625
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3e13bacc6d1a9418142db0d6b25bd6
+      internalID: 285665824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_98
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2625
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd33b51413c12d4f8b0b5f7e3efd34c
+      internalID: -794124386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2625
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6a9a7e338466c48948e168c845afe3
+      internalID: -571438571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2625
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81ef771fb7b7ef4582cfeb038daac3d
+      internalID: -809301799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2625
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a73252bb9b0094da4c27d21be5f1ae
+      internalID: -19475381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2562
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb7a0f2ca082bd41b326e849ead893e
+      internalID: -934544876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_103
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2562
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29186da0831006342a3af5ae5953cbad
+      internalID: -1505188483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_104
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2562
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3401adf9b1d76840b612c54021d6a74
+      internalID: -30634070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_105
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2562
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6469645678f0d49a6ef903d703c4bc
+      internalID: -2147032143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2562
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1ec26fe6dd5ec45ba52f270e4ff565
+      internalID: 1503136862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_107
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2562
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a8665d31ec24f46bb0445b3def8c22
+      internalID: 1395221813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2498
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2775e918439c4fc42aa910bd76b6c478
+      internalID: -1973447405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2498
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf73713ad7c1234aa54d8ab9e1a2741
+      internalID: -1844324400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2498
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcf72a8ac3785941b40aec2f05fa15d
+      internalID: -2021878082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2498
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165f781abc08b8a4ebd0ed2da4d054e0
+      internalID: -1554033958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2498
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca11c00b502902b4bb80bece8581274c
+      internalID: 125858974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2498
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bdcce57663c044d85fcde451f06e90
+      internalID: -662084247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2434
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d99fa2f05547c42b29b89b2db71274
+      internalID: 1451199341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2434
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a21237917e7a34aad847646081c29f
+      internalID: 486465490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2434
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260a2a7edeb432c4481822f44ab30d9b
+      internalID: -2060982969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2434
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77ae0ff5de0e6e4aa701b193ab342b0
+      internalID: 1552156957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2434
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddef3ce64aea53a45835a14d09b0c76e
+      internalID: 982600412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2434
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069043ee36f9b8a4fac040762f570305
+      internalID: -205879782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2370
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61b1e9116d9ac441bf2c4d5101b0624
+      internalID: -336397202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2368
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9e0c20f5ae68c4ab5940b2401a5815
+      internalID: -530234479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2368
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a70c89a8996d16448cd11423cc1b646
+      internalID: -1496680978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2368
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b998a4ab381f4364dbe7f16513118027
+      internalID: 218483436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2368
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e2bdfe9b6a0d04cad55d189d676254
+      internalID: -1151130904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2368
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4998e2697f9e3f47b6821590a534d1f
+      internalID: -2057577119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2368
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c795d67c0df9fc4429f87795593b0806
+      internalID: 941026547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2368
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf85d0f039936a14cb80e473391273a0
+      internalID: -1181196397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2368
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764315318956986488cf9f1dcd361ca0
+      internalID: 978475743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2368
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b24a888c8c2194cbfac16897ba926f
+      internalID: -922721274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2368
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b87b4056e5561d488b1164187329bd0
+      internalID: -699745381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2368
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579e21772fef56f48adce1b27da122c9
+      internalID: -89174764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2368
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea62d598ea257574d8ecbe894f2a2803
+      internalID: -957163803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_133
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2306
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813177d4829e9b44f823518a975bbd0a
+      internalID: -1356454102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2306
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740da5c9754866f4686b1608c4100b1a
+      internalID: 1966664158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2306
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f473f4d2c0d32d4aae2a9e02782f6d1
+      internalID: -989476177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2306
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6429e78ba09874db2cdb0b96c7025d
+      internalID: -532853756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2306
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2f6bc307b2701458d9082367328078
+      internalID: 815689738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2306
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c2c76344688034b8d5fae6e11e8c93
+      internalID: -2036008108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2306
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8d169c3c1af0d4caf1100bf1d8fa81
+      internalID: -23784006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2306
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f0f3169ebfceb48b387c581b06de29
+      internalID: -1562021369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2306
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2056bf027ee4a44a85d44b3130a8ed7
+      internalID: 159595046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2306
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb5d4a613230af4a82aea5902dfedd1
+      internalID: 1844236466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2306
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60723bc712a72b645902f7345f212fb2
+      internalID: 1527723723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2306
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3603be1a7bcae749a374397dfee5e3b
+      internalID: -358447691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 2306
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252d75558f8dab940be041fc6b970b07
+      internalID: 961330660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2242
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bd0d66799dc81449a5f42a9e9d1203
+      internalID: -1968016804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2243
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72d0ee61f44fc54285abfd64ac16f81
+      internalID: 368126715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2243
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cefcb5f12d786d488405bfd290a5e7c
+      internalID: 1918347996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2242
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8892d698e011261408d968f2ea3197d0
+      internalID: 1308731896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2242
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc176d4609292c34eb79048f02495a66
+      internalID: -84476326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2242
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcc892cab54ca64f82a068ed48ef8a4
+      internalID: 1856098198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2242
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b73ef168be9024badb130c86261983
+      internalID: -1781367304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2242
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fd82e2f35951b4c9293e46e51c1249
+      internalID: 849925465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2242
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7130ffc3d87acec49981943aca5ff7ed
+      internalID: -1574624729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2242
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae30693dedf3844c88588d3d503d647
+      internalID: 994144909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2242
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58134f39df39ba49a52bc64dfc3a166
+      internalID: 1349466451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_157
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2242
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e792bab4e10f4fb6fc4c84d027094
+      internalID: -957144678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2242
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61376219a958000489bd35c1cb070a00
+      internalID: -2090050688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_159
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2178
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58713198fc71dd34fa8ec2ddc1a544e5
+      internalID: 1388635481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2178
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f5d6305ec970646a9df8debd88edc9
+      internalID: 501781300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2178
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818f802d6ae51ce4f9857097fbee65eb
+      internalID: 1512026106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2178
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697385db7a27f7d4e84bff10101eace6
+      internalID: 504473710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2178
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de302208a243e31439790d9828b8dd56
+      internalID: -522246970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_164
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2178
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eff75e26904c934aad79307925e5d62
+      internalID: 457164885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2178
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e1729016dd81140b04e4828dd51f03
+      internalID: 88962495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2178
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61f13aff01e57c4292d83160dd81ddd
+      internalID: 686164634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2178
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8e5dec926057e49b323789d9aba969
+      internalID: -1873568545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2178
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7dfc05e5b062c4093903e0ef8eb68d
+      internalID: -198157317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2178
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0cb9b5295dda84398c5ef8be2594dc
+      internalID: 873308222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_170
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2178
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd3a016b609c6e418927a0eb98de49b
+      internalID: -251959040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2178
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8b51dbe26dd0745adee9caaaf5093a
+      internalID: 1630736571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2114
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220caad5a2f53224180f9289d7416cc3
+      internalID: -1928577440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2114
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971ec5da584dab743acea0acaeef4776
+      internalID: 141369165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2112
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e9397776578fb408c4040647d22fae
+      internalID: -606841558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2112
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4834e8fd53742934f8797ab3e680020d
+      internalID: 288538868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2112
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2155b5c6bc3849742a8931c9a4fc4f7b
+      internalID: 756128905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2112
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c4569835aa2be41aa5d054c04aead0
+      internalID: 44718911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_178
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2051
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7ec37ef89e91748b5f9b9903e4d6a9
+      internalID: 553028876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_179
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2050
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266dd525b84d8fc43b06cc6434057bf2
+      internalID: -1865959307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_180
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2054
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24d3c08b4804c34bb93f1139682a99c
+      internalID: -1540825857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_181
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2051
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b248be85c113141b22bafa5324d4d2
+      internalID: -694303845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_182
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2050
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54af8c71072f8ca4cb29a828c97dfc13
+      internalID: -1298374767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_183
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2054
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c92c21639ae3749a3df116dac285c0
+      internalID: 537743161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_184
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1986
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfcf61625517f8468bf874e0b407eec
+      internalID: -712060805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_185
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1986
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e54d064a5003a41b43bab17821a155
+      internalID: -916152219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_186
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1922
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4ab1522019159418207505d4a31892
+      internalID: -99583382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_187
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1922
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf3d0ee04251f74b91cde338bbe98fb
+      internalID: 1525814649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_188
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1858
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0c1d92523d4534ab11a48d401e96b5
+      internalID: 865152767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_189
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1858
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2157cc0b972a01242b43a1dbf04c0154
+      internalID: -1022930930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_190
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1794
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f150bd3eb0916a409853a8c5ffa4157
+      internalID: -1623255697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_191
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1794
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac4f8dcb28c77c4a942597568387d3c
+      internalID: -1625512453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_192
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1730
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75999fad6ab3304980dae0ec0b34d6c
+      internalID: 1541796933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_193
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1730
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fb498e80d1278468a469d2e9393479
+      internalID: 913060659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_194
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1731
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa423a3198d44140a9131c9fc0a9cf0
+      internalID: 1596256477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_195
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1738
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257c89f836409d24086ef551d29adbec
+      internalID: -126231396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_196
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1734
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2d6e1f3b67a642a7d1aad35ecf5ee
+      internalID: -798364969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_197
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1666
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6495c69791bab4849b0b661915ca89e1
+      internalID: -1044966853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_198
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1666
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcba132624b3e9b499e89638308d7f58
+      internalID: 1092141895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_199
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1668
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173c829dd40562e4280ed4e4f6d84c97
+      internalID: -2056625691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_200
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1669
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c23a159a2a342e49bc30b94ced94454
+      internalID: -480990258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_201
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1666
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204c5c0a6877b3a4292f86c8ea43902b
+      internalID: -17244472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_202
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1602
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4764aaea8bf0b446b5efb184aecb594
+      internalID: -2051528084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_203
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1602
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928123d2807d006468e2ce19071ff2b3
+      internalID: -1249913597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_204
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1604
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38785251434b0046980ee3d428256eb
+      internalID: -1383536120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_205
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1608
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5595413580e567741ae4c7ec7e954485
+      internalID: 1704873523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_206
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1605
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24c20cc93ff79344a5874275713a646
+      internalID: 1913233543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_207
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1538
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16efe758f45dc49429a9d068d0d93058
+      internalID: 1088022533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_208
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1538
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d7210389a6374d87979b2b4ec2165
+      internalID: -617157489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_209
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1540
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95261a7410f5af045a45c2921c33d0c0
+      internalID: 1276489244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_210
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1541
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e044c26b84ca714eba50db5d476dbc7
+      internalID: -1092574857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_211
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1538
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9726ca2d5937e424ab16c48ceada8fbd
+      internalID: -537512980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_212
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1474
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e4a39f777c9eb488f17b4285ec74af
+      internalID: 44453470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_213
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1474
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2639a10bb506e841b3630cc8868a7cb
+      internalID: -1757637315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_214
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1484
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb2d09cc3158884abffc462245987a5
+      internalID: 1065239892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_215
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1411
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3da3c8971dc5741a74a4fc444abcfb
+      internalID: -552577747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_216
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1410
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52900970f0779dc4cbb61d01ef28b90c
+      internalID: 1682946012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_217
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1412
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8815d7689d5784a879f32c72302fbb
+      internalID: 2111154738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_218
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1346
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe87b43e101e114fbdb4af01d0f7157
+      internalID: 1647915515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_219
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1346
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19baf3ed4ddd1c346827588432b2cb7b
+      internalID: -1886775180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_220
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1346
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79597367565bec348a6aa4675f10bd53
+      internalID: -1180518349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_221
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1283
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb27808532730b45aed515bbc351286
+      internalID: 16590572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_222
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1282
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eae0128fb002e4f8fe3d3702b676f6
+      internalID: 612261330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_223
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1284
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579c98833742bd945958a0abe8db0c05
+      internalID: 785224781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_224
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1218
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ba31d0cbea0a6448c1c4fb08293eb2
+      internalID: -1168331130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_225
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1218
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20de3f921853944b94e3d8d86f17d0d
+      internalID: -1049196671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_226
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1218
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea085b0a11375124fb5ca8be271ab070
+      internalID: -823415898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_227
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1154
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e8a9153d48994ba623cb20cf23690
+      internalID: 761701661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_228
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1154
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d576d980864b14e90675dc54bbe1c0
+      internalID: 1429664940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_229
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1154
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d333bd7f99ba8d4c9b0383c292ef46b
+      internalID: -961329343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_230
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1090
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab71b7a7b7ba824daa6d9ec820681cb
+      internalID: 901917955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_231
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1090
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15275908dba36424e9abbf510e92f48b
+      internalID: -487228986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_232
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1090
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03974070889dbe346a1319bf6fcad831
+      internalID: 935464912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_233
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1026
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8a1a53875c9e34695885b23a6ebdb0
+      internalID: -166236090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_234
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1026
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a68a0d750173934289a7bb0ae0ed815
+      internalID: -479263751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_235
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1026
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195d1b624860ecc45bc620f443d41483
+      internalID: -1416775484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_236
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 963
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f16267adb87ee4a9cfee1325767f5c
+      internalID: 1880700261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_237
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 960
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb52abb80d512346b6c8dcb363488ba
+      internalID: 995866916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_238
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 960
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c070dc9ecbcd948903f8c724defa1a
+      internalID: -1742560010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_239
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 960
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e394a38e25994334c87d744b17782e6e
+      internalID: -600580551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_240
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 963
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0712f6bbc3c900d45bb4e594170f0301
+      internalID: 157725284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_241
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 960
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc11d7a7ae7cb1c43af6276c16ffefb7
+      internalID: 889669912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_242
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 960
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cfbafb250715f42bc4ddf898d74446
+      internalID: 911116405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_243
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 960
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1477240f07610445b64133eacd74ec0
+      internalID: -1611320000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_244
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 898
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e46700af8fae25409b6cdb01fd628f4
+      internalID: 1117231467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_245
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 897
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fee56db53948746b9dde0c9d387bfb
+      internalID: -266747797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_246
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 897
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9621d97322bbe3842827acdb9f98d4a9
+      internalID: 2011997580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_247
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 901
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eacc4a5dc026c04191d5e379f1f30a0
+      internalID: -769235110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_248
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 898
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9783b9101e5b4054db379ce39cb1ef85
+      internalID: -609546116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_249
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 897
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509e350ebdcfa0f40a1bbf8bdf1de5be
+      internalID: -1641132617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_250
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 897
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2139ccc8d93c6f45a994c0d8df9e88c
+      internalID: 903815539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_251
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4a08cfb91031646b9b55dbfa18bcfa
+      internalID: -1127062186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_252
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 832
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa53e5bf2692e5b4fa4a84f9f2c71aa0
+      internalID: 1157661333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_253
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 832
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d277e1a78c80a744a97b0e021aa872f
+      internalID: 1687860404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_254
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 833
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7e0b2bd4b6acd479cb7849bb190c3d
+      internalID: 408575337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_255
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 836
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fda0aa1ad1e5d439e1c9f98fdb6fb8
+      internalID: -130322960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_256
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 832
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d992602976ff884d89ce950a9dad237
+      internalID: 1126899688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_257
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 832
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223f7c5d37fb8b14e877765442e9a724
+      internalID: -2086598309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_258
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 833
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5884d037993f96d459470f2ff34622e8
+      internalID: -420836298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_259
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 836
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcb8a43aec4d9e41bc5c7bee02c0c6f
+      internalID: 1608193506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_260
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 770
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685769d4534f59b41a3a20a27073a3b8
+      internalID: -1242480639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_261
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 769
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009f7a7ff40825b438ad4854b25b3b20
+      internalID: 976271403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_262
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 769
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee734417e8583634ab490120fa0d981b
+      internalID: -1810094155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_263
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 773
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da5988f2a0f22241acb29c61285dbe4
+      internalID: -1492266442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_264
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 770
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0fc3acc5ccff6459dfcedcbde7a8b2
+      internalID: -1201853904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_265
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 769
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea6893e33f191249a95c341a187f0b7
+      internalID: 543765501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_266
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 769
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5f88e263f3d364c9a89a4de65fb13c
+      internalID: -503990878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_267
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 771
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c1e97bd14104d44984ec39ae75c978
+      internalID: -1603624249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_268
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 706
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386163fff0dae8144a204ff34c9f3136
+      internalID: 1731396472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_269
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 706
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a511168eaab8e42860d1b01cd9ed7e
+      internalID: -698400642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_270
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 642
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ba60f127cf67348b8b88b779cf62a1
+      internalID: -684271569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_271
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 642
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e51680f19bbf3b46872f2c991d24a90
+      internalID: 2119170023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_272
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 577
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19db68e697066cb4c9c63f5ecfa192eb
+      internalID: 762250196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_273
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 577
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588868b4f30c4a244ba092a557f24e3a
+      internalID: -29541409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_274
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 514
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2554efa8d433349adefaa3b9d606c1
+      internalID: 1073401032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_275
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 514
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fea7d5520dffe439fb6a5c1fa9c4ae
+      internalID: -1956220405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_276
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 449
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b62e669d874304b9627674858d3371
+      internalID: -2132900510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_277
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 450
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e528b392c40fd4245a9e92b2f61494bb
+      internalID: 282505108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_278
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 450
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054b8973dcf28204b9933a0fd608fd15
+      internalID: 1758024919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_279
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 450
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eae8c8bbbd310f45a8cfc57ba2848c0
+      internalID: -654763995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_280
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 450
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13092f67f7f02cf459ce18cc338a77ea
+      internalID: 1640655984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_281
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 450
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d111ff3a4e05942bf1d02ad99015bf
+      internalID: 1505507264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_282
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 450
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cf293447bb09c48b5a4e220cf729fa
+      internalID: -1385264696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_283
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 450
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8512297a9bf979147841e5da12b13379
+      internalID: -630315677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_284
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 450
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90eb1e919ad03c4296322f69e2554e6
+      internalID: -323932404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_285
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 450
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e942b94319a18a42a824ef5b7ede990
+      internalID: 649164309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_286
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 450
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61027ac1bc8ee84598e90e083964139
+      internalID: -331576830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_287
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 450
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162e62286cbc36049900a6257d68a925
+      internalID: 475997417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_288
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 450
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4d7112695335448832d5654db7a772
+      internalID: -1645005291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_289
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 386
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c3811a294918d46a2f96fc28f793ef
+      internalID: 1469399004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_290
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 386
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c99a18f1769eb46b6f5d8bd92e02e0
+      internalID: -87133011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_291
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 386
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19cd58b4674446419467dd45b2977b7
+      internalID: -173111466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_292
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 386
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c175e7de2b02874da8e2416b4791391
+      internalID: 2065374388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_293
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 386
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a017b6a906bfdbf4ba3347509b845aca
+      internalID: -547561820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_294
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 386
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51e69a8de34ae6409cd86c2bf4b4915
+      internalID: 1535460421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_295
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 386
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9f6f993b3cf054bb1717d6221882ea
+      internalID: 902881940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_296
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 386
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a186772cc65d29428d48bd740a4e499
+      internalID: -1337035064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_297
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 386
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ce5c42ac97d2147b83a1e81392849f
+      internalID: -1316987533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_298
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 386
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1d69f7561e8f744b6b12a157aeb35c
+      internalID: -1328888997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_299
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 386
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3887c217d795b5d429ca102f23ca08ab
+      internalID: -1169870542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_300
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 386
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa44e3b78b205214891f95fd48677089
+      internalID: -1356820129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_301
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 386
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb88146372c32d40bbc536630f3fafb
+      internalID: 336495243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_302
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 321
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d02c6ad9d78684fb8afbbbe93f3fbb
+      internalID: -177451581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_303
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 321
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2a75cf7b7ee9047a9824e40099fb38
+      internalID: 1630049195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_304
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 321
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b3c96e12067f743ba733d986924e51
+      internalID: 1098779697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_305
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 321
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a455ebcafb7f44188837d09adc78d6
+      internalID: 42438381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_306
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 321
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d31cde8ec4e4074185e751d1bd75ada
+      internalID: -708629334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_307
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 321
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4464ed8c46bda7a42a110167da8f987a
+      internalID: -784447129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_308
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 321
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754fdbaa865dbc247ac7a794acbba7b3
+      internalID: 1683577674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_309
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 321
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ca692903f53fd44889ca3befc8aaf9
+      internalID: 846964586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_310
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 321
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23c26c0981b00b45ade022b0046faa3
+      internalID: 84640801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_311
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 321
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df82988b33e9b449a133953e5b602f7
+      internalID: 1178281804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_312
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 321
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3952360f1208ffd45a1648a1708db4a6
+      internalID: -528327496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_313
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 321
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701091a6e01757c4f936d6ca9f3d164a
+      internalID: -340832881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_314
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 321
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1453dc59eab7014ab93349d431df187
+      internalID: -1206081679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_315
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0acf3ba7d69ee4ca25aac07d95bac0
+      internalID: 1167426825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_316
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 258
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89571ab130925f346b99d4d516219015
+      internalID: -2048945580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_317
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 258
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9d5e6d30522ea4691bf300fb6a5ece
+      internalID: 1466803843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_318
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 258
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ec8ecd8bb7706418306ab34c9f44b5
+      internalID: 609838516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_319
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 258
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03866be8556e47c4bab005def578d717
+      internalID: -1127755747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_320
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 258
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6feb4fe9609134ab6e30b78ad8426b
+      internalID: 167664955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_321
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 258
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01325f9e98636e4c9924e34eb5740ea
+      internalID: -15614497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_322
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 258
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae087e653be6bf740b923b3232ec8eb1
+      internalID: 203076586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_323
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 258
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093c0168c467653459caa8e7e5f9ad65
+      internalID: 1216172667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_324
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 258
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6873a58c952234190c83f677b0d19a
+      internalID: -134757929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_325
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 258
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e1620f155c60c41a92a24df1ad5c7b
+      internalID: -1258861732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_326
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 258
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34058e9b93351b847982dd67f13cedc6
+      internalID: -1563641086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_327
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 258
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fb594887c7c2a429cc9c61a0a00a69
+      internalID: 1657003287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_328
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 193
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71abd4e6c9e200e44822b0d47e3218f7
+      internalID: 354753764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_329
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 194
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db44d413df2a6d409385ac188e615d3
+      internalID: 351051255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_330
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 195
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce7281c67cb2d04d8d9d7b7a5d672d4
+      internalID: 548252526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_331
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 196
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06db836a4f6ef1846a389f2eb84af394
+      internalID: 254025905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_332
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 196
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ced5e3f3c9f74e4a9934fb0058426cf
+      internalID: -1822645171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_333
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 194
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152dc6b4bd583234e8d2985343f6856c
+      internalID: 2099044404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_334
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca997303209932d41afaa3b52eddd0d2
+      internalID: 719840313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_335
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 130
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea19ec16f807eb448637b43b23e349f
+      internalID: -328975366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_336
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 130
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e21375e4fcbf84abfbc552ff82f38e
+      internalID: 598365349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_337
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 130
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589b6fe64719bc646930130173cd09ef
+      internalID: -792553012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_338
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 130
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c4361985931574eb32241a3b6607de
+      internalID: -1491408275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_339
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 130
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968a7a67d39de4242b9c2e1025e41552
+      internalID: -944208288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_340
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 65
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef265430411251498cf5a2aef97b1ea
+      internalID: 721274515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_341
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2405b885d2e1d9540bf2b5a2ae775923
+      internalID: 146622869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_342
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 65
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf2ab153afd9d44799f063ae90b2570
+      internalID: -1024361455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_343
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 65
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8159999b92523744ab99fa42c14fb46
+      internalID: -624306206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_344
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 65
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801df2775e14e404b9d8869203f39aa2
+      internalID: -2138337350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_345
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 65
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477d5690b462aa340a4aab7465949b2f
+      internalID: -1822794703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_346
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd21942c0615a439fd1635e91dc1f6
+      internalID: -273846410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_347
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795df178b9f817642990eeac1862af1e
+      internalID: 201987707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_348
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4415a1d98bb266740a6d2912c5bd3ad9
+      internalID: -464492912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_349
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea7cffbe610c4a4dbcbb4baeb1525bb
+      internalID: -822780397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_350
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6145268cdc7662f4695f6a025c4b5e1e
+      internalID: 39555688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerDagger_351
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d7ca2a7fbd64945a4be4419b0bec3e
+      internalID: 1724772959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayerDagger_25: 1714579851
+      PlayerDagger_190: -1623255697
+      PlayerDagger_76: 1479785472
+      PlayerDagger_153: 849925465
+      PlayerDagger_290: -87133011
+      PlayerDagger_75: -676897123
+      PlayerDagger_44: 1586230796
+      PlayerDagger_337: -792553012
+      PlayerDagger_257: -2086598309
+      PlayerDagger_40: 227965448
+      PlayerDagger_82: -1352048036
+      PlayerDagger_110: -2021878082
+      PlayerDagger_326: -1563641086
+      PlayerDagger_93: -2013598240
+      PlayerDagger_249: -1641132617
+      PlayerDagger_224: -1168331130
+      PlayerDagger_227: 761701661
+      PlayerDagger_170: -251959040
+      PlayerDagger_15: 258091728
+      PlayerDagger_145: 961330660
+      PlayerDagger_210: -1092574857
+      PlayerDagger_113: -662084247
+      PlayerDagger_308: 1683577674
+      PlayerDagger_343: -624306206
+      PlayerDagger_282: -1385264696
+      PlayerDagger_254: 408575337
+      PlayerDagger_299: -1169870542
+      PlayerDagger_101: -19475381
+      PlayerDagger_324: -134757929
+      PlayerDagger_296: -1337035064
+      PlayerDagger_349: -822780397
+      PlayerDagger_255: -130322960
+      PlayerDagger_148: 1918347996
+      PlayerDagger_3: 135674961
+      PlayerDagger_217: 2111154738
+      PlayerDagger_238: -1742560010
+      PlayerDagger_174: -606841558
+      PlayerDagger_317: 1466803843
+      PlayerDagger_250: 903815539
+      PlayerDagger_58: -1247668039
+      PlayerDagger_216: 1682946012
+      PlayerDagger_268: 1731396472
+      PlayerDagger_176: 756128905
+      PlayerDagger_60: -1538498096
+      PlayerDagger_187: 1525814649
+      PlayerDagger_204: -1383536120
+      PlayerDagger_315: 1167426825
+      PlayerDagger_70: -2046238756
+      PlayerDagger_201: -17244472
+      PlayerDagger_166: 686164634
+      PlayerDagger_178: 553028876
+      PlayerDagger_267: -1603624249
+      PlayerDagger_253: 1687860404
+      PlayerDagger_12: 918863932
+      PlayerDagger_305: 42438381
+      PlayerDagger_127: -1181196397
+      PlayerDagger_173: 141369165
+      PlayerDagger_83: -661042901
+      PlayerDagger_47: 657817728
+      PlayerDagger_77: -1377288114
+      PlayerDagger_89: -581373283
+      PlayerDagger_319: -1127755747
+      PlayerDagger_164: 457164885
+      PlayerDagger_183: 537743161
+      PlayerDagger_225: -1049196671
+      PlayerDagger_48: 1708030569
+      PlayerDagger_162: 504473710
+      PlayerDagger_121: -530234479
+      PlayerDagger_66: -1387938349
+      PlayerDagger_196: -798364969
+      PlayerDagger_336: 598365349
+      PlayerDagger_157: -957144678
+      PlayerDagger_189: -1022930930
+      PlayerDagger_206: 1913233543
+      PlayerDagger_222: 612261330
+      PlayerDagger_45: -590711735
+      PlayerDagger_223: 785224781
+      PlayerDagger_229: -961329343
+      PlayerDagger_63: -998109620
+      PlayerDagger_169: 873308222
+      PlayerDagger_246: 2011997580
+      PlayerDagger_348: -464492912
+      PlayerDagger_41: 1910629085
+      PlayerDagger_68: -1150400254
+      PlayerDagger_26: -42668568
+      PlayerDagger_138: -2036008108
+      PlayerDagger_177: 44718911
+      PlayerDagger_143: 1527723723
+      PlayerDagger_310: 84640801
+      PlayerDagger_333: 2099044404
+      PlayerDagger_35: 503349709
+      PlayerDagger_85: -1121965911
+      PlayerDagger_345: -1822794703
+      PlayerDagger_134: 1966664158
+      PlayerDagger_347: 201987707
+      PlayerDagger_213: -1757637315
+      PlayerDagger_192: 1541796933
+      PlayerDagger_132: -957163803
+      PlayerDagger_69: 2071051436
+      PlayerDagger_61: -2069836817
+      PlayerDagger_22: 1302182448
+      PlayerDagger_327: 1657003287
+      PlayerDagger_175: 288538868
+      PlayerDagger_279: -654763995
+      PlayerDagger_154: -1574624729
+      PlayerDagger_91: 730840330
+      PlayerDagger_8: -106988349
+      PlayerDagger_140: -1562021369
+      PlayerDagger_272: 762250196
+      PlayerDagger_2: -1038791987
+      PlayerDagger_233: -166236090
+      PlayerDagger_34: 82497363
+      PlayerDagger_106: 1503136862
+      PlayerDagger_212: 44453470
+      PlayerDagger_188: 865152767
+      PlayerDagger_186: -99583382
+      PlayerDagger_260: -1242480639
+      PlayerDagger_114: 1451199341
+      PlayerDagger_287: 475997417
+      PlayerDagger_111: -1554033958
+      PlayerDagger_277: 282505108
+      PlayerDagger_295: 902881940
+      PlayerDagger_266: -503990878
+      PlayerDagger_141: 159595046
+      PlayerDagger_291: -173111466
+      PlayerDagger_94: -722022971
+      PlayerDagger_274: 1073401032
+      PlayerDagger_284: -323932404
+      PlayerDagger_340: 721274515
+      PlayerDagger_199: -2056625691
+      PlayerDagger_203: -1249913597
+      PlayerDagger_214: 1065239892
+      PlayerDagger_193: 913060659
+      PlayerDagger_198: 1092141895
+      PlayerDagger_269: -698400642
+      PlayerDagger_59: 1164443271
+      PlayerDagger_137: 815689738
+      PlayerDagger_159: 1388635481
+      PlayerDagger_288: -1645005291
+      PlayerDagger_328: 354753764
+      PlayerDagger_117: 1552156957
+      PlayerDagger_42: -396093048
+      PlayerDagger_136: -532853756
+      PlayerDagger_0: -1610471770
+      PlayerDagger_168: -198157317
+      PlayerDagger_344: -2138337350
+      PlayerDagger_259: 1608193506
+      PlayerDagger_128: 978475743
+      PlayerDagger_265: 543765501
+      PlayerDagger_57: -1612379498
+      PlayerDagger_55: 2010949536
+      PlayerDagger_95: 798261276
+      PlayerDagger_158: -2090050688
+      PlayerDagger_243: -1611320000
+      PlayerDagger_46: -387771153
+      PlayerDagger_321: -15614497
+      PlayerDagger_172: -1928577440
+      PlayerDagger_331: 254025905
+      PlayerDagger_30: -150542161
+      PlayerDagger_322: 203076586
+      PlayerDagger_241: 889669912
+      PlayerDagger_244: 1117231467
+      PlayerDagger_11: -1215820617
+      PlayerDagger_285: 649164309
+      PlayerDagger_27: 184530747
+      PlayerDagger_38: 687719530
+      PlayerDagger_139: -23784006
+      PlayerDagger_49: 361697032
+      PlayerDagger_100: -809301799
+      PlayerDagger_200: -480990258
+      PlayerDagger_332: -1822645171
+      PlayerDagger_142: 1844236466
+      PlayerDagger_237: 995866916
+      PlayerDagger_219: -1886775180
+      PlayerDagger_304: 1098779697
+      PlayerDagger_280: 1640655984
+      PlayerDagger_109: -1844324400
+      PlayerDagger_184: -712060805
+      PlayerDagger_220: -1180518349
+      PlayerDagger_53: -1452537295
+      PlayerDagger_330: 548252526
+      PlayerDagger_88: 1672115662
+      PlayerDagger_234: -479263751
+      PlayerDagger_275: -1956220405
+      PlayerDagger_112: 125858974
+      PlayerDagger_108: -1973447405
+      PlayerDagger_125: -2057577119
+      PlayerDagger_56: -92942976
+      PlayerDagger_50: -149357966
+      PlayerDagger_67: 706559589
+      PlayerDagger_13: 203763591
+      PlayerDagger_232: 935464912
+      PlayerDagger_278: 1758024919
+      PlayerDagger_9: -1885815242
+      PlayerDagger_208: -617157489
+      PlayerDagger_195: -126231396
+      PlayerDagger_228: 1429664940
+      PlayerDagger_338: -1491408275
+      PlayerDagger_33: 1860720188
+      PlayerDagger_215: -552577747
+      PlayerDagger_21: 366758930
+      PlayerDagger_62: -1227272627
+      PlayerDagger_286: -331576830
+      PlayerDagger_18: 340821177
+      PlayerDagger_245: -266747797
+      PlayerDagger_306: -708629334
+      PlayerDagger_318: 609838516
+      PlayerDagger_252: 1157661333
+      PlayerDagger_119: -205879782
+      PlayerDagger_230: 901917955
+      PlayerDagger_181: -694303845
+      PlayerDagger_231: -487228986
+      PlayerDagger_98: -794124386
+      PlayerDagger_96: -1243219543
+      PlayerDagger_194: 1596256477
+      PlayerDagger_307: -784447129
+      PlayerDagger_16: 2133205940
+      PlayerDagger_122: -1496680978
+      PlayerDagger_209: 1276489244
+      PlayerDagger_51: -2043782409
+      PlayerDagger_120: -336397202
+      PlayerDagger_281: 1505507264
+      PlayerDagger_155: 994144909
+      PlayerDagger_258: -420836298
+      PlayerDagger_167: -1873568545
+      PlayerDagger_14: 1409846798
+      PlayerDagger_151: 1856098198
+      PlayerDagger_226: -823415898
+      PlayerDagger_179: -1865959307
+      PlayerDagger_105: -2147032143
+      PlayerDagger_297: -1316987533
+      PlayerDagger_335: -328975366
+      PlayerDagger_36: 1107668065
+      PlayerDagger_32: -846376951
+      PlayerDagger_248: -609546116
+      PlayerDagger_149: 1308731896
+      PlayerDagger_17: 409775491
+      PlayerDagger_74: 449144370
+      PlayerDagger_218: 1647915515
+      PlayerDagger_247: -769235110
+      PlayerDagger_23: -169226899
+      PlayerDagger_240: 157725284
+      PlayerDagger_131: -89174764
+      PlayerDagger_171: 1630736571
+      PlayerDagger_300: -1356820129
+      PlayerDagger_90: -1582994728
+      PlayerDagger_102: -934544876
+      PlayerDagger_316: -2048945580
+      PlayerDagger_270: -684271569
+      PlayerDagger_350: 39555688
+      PlayerDagger_235: -1416775484
+      PlayerDagger_239: -600580551
+      PlayerDagger_72: 652096847
+      PlayerDagger_135: -989476177
+      PlayerDagger_276: -2132900510
+      PlayerDagger_339: -944208288
+      PlayerDagger_52: 1973299039
+      PlayerDagger_263: -1492266442
+      PlayerDagger_150: -84476326
+      PlayerDagger_6: -600146453
+      PlayerDagger_7: 585497906
+      PlayerDagger_211: -537512980
+      PlayerDagger_20: -842646229
+      PlayerDagger_43: 1959516343
+      PlayerDagger_301: 336495243
+      PlayerDagger_298: -1328888997
+      PlayerDagger_165: 88962495
+      PlayerDagger_99: -571438571
+      PlayerDagger_311: 1178281804
+      PlayerDagger_156: 1349466451
+      PlayerDagger_146: -1968016804
+      PlayerDagger_283: -630315677
+      PlayerDagger_342: -1024361455
+      PlayerDagger_10: 359369066
+      PlayerDagger_65: -69831855
+      PlayerDagger_28: 1508791764
+      PlayerDagger_180: -1540825857
+      PlayerDagger_54: 416016689
+      PlayerDagger_107: 1395221813
+      PlayerDagger_103: -1505188483
+      PlayerDagger_144: -358447691
+      PlayerDagger_104: -30634070
+      PlayerDagger_185: -916152219
+      PlayerDagger_320: 167664955
+      PlayerDagger_97: 285665824
+      PlayerDagger_116: -2060982969
+      PlayerDagger_87: 2054789097
+      PlayerDagger_126: 941026547
+      PlayerDagger_147: 368126715
+      PlayerDagger_325: -1258861732
+      PlayerDagger_341: 146622869
+      PlayerDagger_289: 1469399004
+      PlayerDagger_71: -1272605157
+      PlayerDagger_271: 2119170023
+      PlayerDagger_79: -1493914387
+      PlayerDagger_221: 16590572
+      PlayerDagger_202: -2051528084
+      PlayerDagger_207: 1088022533
+      PlayerDagger_123: 218483436
+      PlayerDagger_64: 1036043067
+      PlayerDagger_39: -506995570
+      PlayerDagger_273: -29541409
+      PlayerDagger_292: 2065374388
+      PlayerDagger_115: 486465490
+      PlayerDagger_346: -273846410
+      PlayerDagger_29: 1675524013
+      PlayerDagger_302: -177451581
+      PlayerDagger_256: 1126899688
+      PlayerDagger_261: 976271403
+      PlayerDagger_197: -1044966853
+      PlayerDagger_129: -922721274
+      PlayerDagger_19: -1423340618
+      PlayerDagger_323: 1216172667
+      PlayerDagger_191: -1625512453
+      PlayerDagger_152: -1781367304
+      PlayerDagger_130: -699745381
+      PlayerDagger_92: -75804261
+      PlayerDagger_124: -1151130904
+      PlayerDagger_205: 1704873523
+      PlayerDagger_264: -1201853904
+      PlayerDagger_161: 1512026106
+      PlayerDagger_37: -1442759558
+      PlayerDagger_313: -340832881
+      PlayerDagger_73: 1051819936
+      PlayerDagger_236: 1880700261
+      PlayerDagger_242: 911116405
+      PlayerDagger_293: -547561820
+      PlayerDagger_329: 351051255
+      PlayerDagger_118: 982600412
+      PlayerDagger_78: 1659780789
+      PlayerDagger_163: -522246970
+      PlayerDagger_309: 846964586
+      PlayerDagger_294: 1535460421
+      PlayerDagger_81: -20432540
+      PlayerDagger_262: -1810094155
+      PlayerDagger_334: 719840313
+      PlayerDagger_84: 1716860182
+      PlayerDagger_314: -1206081679
+      PlayerDagger_351: 1724772959
+      PlayerDagger_160: 501781300
+      PlayerDagger_303: 1630049195
+      PlayerDagger_133: -1356454102
+      PlayerDagger_80: -190650460
+      PlayerDagger_4: -1943615708
+      PlayerDagger_312: -528327496
+      PlayerDagger_5: -1196088650
+      PlayerDagger_24: 293119893
+      PlayerDagger_31: -1243567501
+      PlayerDagger_86: -2031382027
+      PlayerDagger_182: -1298374767
+      PlayerDagger_1: 104273892
+      PlayerDagger_251: -1127062186
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
