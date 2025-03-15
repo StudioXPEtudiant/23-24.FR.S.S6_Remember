@@ -28,6 +28,7 @@ public class PlayerMovement : MonoBehaviour
     private bool isAttacking = false;
 
     public ToggleInventory toggleInventory;
+    public NPCController npcController;
 
     private void Awake()
     {
@@ -36,6 +37,7 @@ public class PlayerMovement : MonoBehaviour
         animator = GetComponent<Animator>();
 
         toggleInventory = GetComponent<ToggleInventory>();
+        npcController = GetComponent<NPCController>();
     }
 
     private void OnEnable()

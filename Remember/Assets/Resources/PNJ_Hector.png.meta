@@ -1,0 +1,8219 @@
+fileFormatVersion: 2
+guid: 191f95b0d72d0e64a8dc33f75a25fed0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PNJ_Hector_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2882
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36022da5e4a47e2499e6185d1bc0af5c
+      internalID: -1425495923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2882
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7ee4b0dd8620f45895e88a328346fe
+      internalID: 961739504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2882
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd4eecb7af16fd4fbed39a3ac3b38f3
+      internalID: 1041483438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2882
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd7ae9d264b8ba4285b337c4e870ac3
+      internalID: -459268699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2882
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a387de4023108cf4eb696f4cc763026e
+      internalID: -2073399270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2882
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0526879a375b26341a1f38153dabbce6
+      internalID: -892580547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2882
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b155e24e9bdf7d468cfeed428394ab2
+      internalID: -469512366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2818
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1600927375b6b0418c7845100272151
+      internalID: -1330223975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2818
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b400380342724844daaf7ebd848490e4
+      internalID: -244474862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2818
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad526fea2bdc8b748b6d3b6a951705cb
+      internalID: 1326359265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2818
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d126a7b817fafa34cb343ce3f0bea343
+      internalID: 1787649355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2818
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f14e8aa0a287448a75daacd7644216
+      internalID: 1782999905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2818
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c470540cef269f84480cd45009479bf2
+      internalID: 782480054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2818
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f51de02c1ba3b42904e893bfea68e9
+      internalID: 1205862408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2754
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7975fc0ffd9144e42961b7703652068b
+      internalID: 590551069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2754
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9271eb2e4a37ee748b5b8660f27fd1f2
+      internalID: 1227111214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2754
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43875341cf85ef24b88ba67620f3eea2
+      internalID: -753956907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2754
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509a40d8d3471274fabf0dc294f40287
+      internalID: 986678734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2754
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de098a8f12e50b94bb6bbe002a46c6d7
+      internalID: 1450708661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2754
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83fa9ea58b8e2444b8e78e93c862470
+      internalID: 1270390660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2754
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50131ba7e5ab5a45a19825f8876595b
+      internalID: 102187882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2690
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1778eb3f5625ffe4e80f47947ebaf1f7
+      internalID: -1210448231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2690
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eb498b14df6be4c8746f9f7428455b
+      internalID: 1334854872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2690
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60542af48742564bba1c23226bb1183
+      internalID: -604985089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2690
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d302856aafd38740ade6df6b7690188
+      internalID: -1921099372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2690
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ffaafc720d60141bde2237f8187451
+      internalID: -797885435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2690
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cd752bead34b94e946a36094433dfc
+      internalID: -1586761908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2690
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d966adcb3824c644da3b3c9d017db89a
+      internalID: -1295924733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2626
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ebaf4f8d2969d409484b9f8df18e43
+      internalID: -896528600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2624
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eea68462b71e6f459aac0e95d1f97b6
+      internalID: 1046133232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2624
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863f4763059e7394b98f8bd3777eec0e
+      internalID: -938653264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2624
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7305abb16ee44884eb0a4fc0e5be1562
+      internalID: 580498773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2624
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c6dbfc108e97b40a88b6a17c97da07
+      internalID: -11251460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2624
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775efcf086fd94b4381fc81cb7adc59c
+      internalID: 1130218959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2624
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f37f5019066b474aaa23e1e8a3a8239
+      internalID: 1012822955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2624
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ae21d2dd8a54f43a44d9e8dea7c118
+      internalID: 1960746799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2562
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654564442f0a25944a6f2a67bfd1a236
+      internalID: 683190211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2562
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf6bbe7168d22345b244f699948d914
+      internalID: 750865316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2562
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4754912e941764da69e757ffaa3549
+      internalID: 2034365375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2562
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10719f810e12e7438020b88c9e3e85b
+      internalID: -641772003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2562
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efec277ab142eff44947b089484523b1
+      internalID: 112828525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2562
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5e7f51a0edd544d81c4f17f9d8cbae
+      internalID: 690597983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2562
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b436714ca8ca540897e4a181260282
+      internalID: -618036939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2562
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da24eb42c2fb024e9f438bc616d7179
+      internalID: 2127670615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2498
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16da0962b8a2a9c418df852b22b488f1
+      internalID: -1951163455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2499
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f2c5f630d0c1140bd25ef5a6d53813
+      internalID: 315140486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2499
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ce41d743d40024cbbdde6f9547d74d
+      internalID: -448422576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2499
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f8c157d897074299b42ea8fe2a2ba
+      internalID: -1968919143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2499
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64279704ae98a6a4eb2e6dd66eaf5e0e
+      internalID: -77940412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2499
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc785d494f83f5342b48ae458044f83c
+      internalID: 1253284321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2499
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1629d02e2688e1042a8272726c0f2f93
+      internalID: -262195413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2499
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e166474a06aef9c4482ac282bf2ac3da
+      internalID: -169548839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2434
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad81acbed968a1b48a6680cdd4e43261
+      internalID: 799209122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2434
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440e4cbb220fbdf42aa0b41bd4365c67
+      internalID: -1237154431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2434
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf7016df910b7a408484b3c3189edfb
+      internalID: -668065076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2434
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95935c5411012ff4c86a531b862fb77b
+      internalID: 1693418624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2434
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dac878542459748a1156a42ae27046
+      internalID: -277621467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2434
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d25bc6c16e08c40912d48f85749980
+      internalID: 1375124740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2434
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9b023e5c9301149b98f6bac8ed6641
+      internalID: 632674348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2434
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b606795bb37357544956d4e1c91613fb
+      internalID: 466986636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2370
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b81f35334390047a6b9bd96ad6b67e
+      internalID: 339083818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2371
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb9ef39343b0a544833787463bb4525
+      internalID: 1455954673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2370
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf956e4eb4804c418e786657091c13d
+      internalID: -2125363482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2369
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8800a7a8e2f3464fad2a37a527c582f
+      internalID: -526620891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2370
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e639eaa631e2eea4d9e60170dfab0ac8
+      internalID: -1783205167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2371
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad56cc9f0dea47742b175e1359e70397
+      internalID: -2000495651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2370
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a4a5499b61bac4eb352370cf8cb883
+      internalID: 800041395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2369
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9b7c0a2fb9d9e478337cb50f1f0052
+      internalID: -1157857011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2370
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c234ac2187fb1f8439d7d6d144cec06c
+      internalID: 1169775231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2306
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba4ae7ade88c704dbb1deb75bab0845
+      internalID: 299233321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2306
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d266d517a62234b9f161ebe359e301
+      internalID: -932070377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2307
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d29f65db902f8141b1936bdc60161d4
+      internalID: -1022647109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2307
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fc473036a5e734ebe0b65def546f6c
+      internalID: 1467090364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2306
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bed03e9692055c4cbd3a75b2249bebc
+      internalID: 320626399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2306
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5489f966f27d995479c77ef6e34bb7e0
+      internalID: -651550093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2306
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e37e5611fddea74a822dfbc18e357b8
+      internalID: 1857054980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_76
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2306
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b65e93552c107a4d86fe2d433d1c0f4
+      internalID: -368650046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2306
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137c25d2f0fd6d74aa38b933c609d687
+      internalID: -1127530996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2242
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47249f1c5fd22d048845ac96d0bbaed5
+      internalID: -1528702116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2242
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f696e9add2e61f94899a2ec93c482f61
+      internalID: 91234453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2241
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaaaaf6103f60f4ab13b6468d4e1897
+      internalID: 1350859713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2241
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fc2c62a0deb444b8829df5e6fabe11
+      internalID: 1492460433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2241
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3648977ffc4b1c14fa1b1518a4c1d49d
+      internalID: 1521252241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2242
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5db4a3a80c4965468a516906fc88383
+      internalID: 203232319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2241
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d01847983204dd49a6842d2f47379ad
+      internalID: 1619940846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2241
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75ec33a2ce6eba42894e7faab4c6a56
+      internalID: -1842663010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2241
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b9297cec1fcfb43bc8dd0fafdf96b0
+      internalID: 628970563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2178
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365194b79a06db648b2c2f94d61dda18
+      internalID: -526282373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2178
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acae0713cbfe48a42951dcb91e78ee94
+      internalID: -1031156731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2179
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b02b50d68fc2de45a58941f5ef1511a
+      internalID: -1680433735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2179
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e9fd2b723dd54429981cd21090bffd
+      internalID: 481559976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2178
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5286eb18fa6f72f4a917e4f626641dcb
+      internalID: 1902062238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2178
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb31b79d11362e4f96301039b5ab412
+      internalID: 1272024131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2178
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1de487481b451c4081b5a1c120f855c
+      internalID: -1465712130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2178
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c280880882bb354592d27e7d53eee5b
+      internalID: 1169184345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2178
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e061c94e99ff8ef4ba77103406cdd7da
+      internalID: -540312888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2114
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e677db78031dd124682aa02e9bd57c24
+      internalID: -792793231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2113
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba37184a5cc79746bf6d0459cfc3680
+      internalID: -1878254719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_98
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2113
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076b99bdaf2a36f42864e70e9969ced0
+      internalID: 2095630041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2113
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943336764acc965409a6a2ffc69fbc1b
+      internalID: -2071547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2113
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4922eff8a793c4dbd69ec387a1d677
+      internalID: -1983510129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2113
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad8465e18242864688445a30f6fdba0
+      internalID: 1790784222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2050
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e0533b5cb665341b728af3d3e57d65
+      internalID: 1193576264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2050
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff24a489443c4c40b558088229ba2ee
+      internalID: 247117542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2050
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e8c4d36a55ae349b408fe96c929345
+      internalID: 1151728685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2050
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e137354afcd99fd42869502fab2abfc0
+      internalID: 1139371121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2050
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1dcfff248a6324e9244946cbed1b4d
+      internalID: 1376259981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2050
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95af6977a7137944099c4beb30189bd7
+      internalID: -1546851196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1986
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9222b8d00c5023f438963c757a7b8c2c
+      internalID: -664872307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1986
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0585e608d4fc1149bbb770ac58335f5
+      internalID: -1432521880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_110
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1986
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2619352e3cf1d4587024f7542effa1
+      internalID: 1322008178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1986
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b73d1568b5d3741aa358f7494ca83e
+      internalID: -873661268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1986
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f00a067dc61147aabacbfc42a5989
+      internalID: 1354570949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1986
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4186c7b576fbb6d40812e712faf3fe8c
+      internalID: 611894644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1922
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad14fcebde128ce498e76c316f90a596
+      internalID: -902787260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1922
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5e4af042777c440a83a260043f2f53
+      internalID: -233959470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1922
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b0c2d863e82e74aa37cecf70f69b3a
+      internalID: -1541477461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1922
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31bde337a925aa4392ec71919afbf0c
+      internalID: 810019002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1922
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81d2cc339393a047a987819f0bbb92c
+      internalID: -1935849155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1922
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd047eb8874b13f4297902be72089f71
+      internalID: 630760436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1858
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9001c5e07c45a4a97878b47c7d9337
+      internalID: 295369006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1856
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bf9c06ec460214cafaea8ce0e14549
+      internalID: 250766804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_122
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1856
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb12c429c51efe4e94da0f9a29b1864
+      internalID: 60705296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_123
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1856
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741c46a2e5030e24d9bcaee7b5496397
+      internalID: -1564837193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_124
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1856
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5989464a4ec1bc944a619de2807f3345
+      internalID: 1229082841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_125
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1856
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c8df1d1e83bd647bf073f618624f91
+      internalID: 325721689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1856
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c6da090dee2f419fbe3bb2db1ce68
+      internalID: -1338268403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1856
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e12c05917d63f146be876c08b09a15e
+      internalID: 1033701930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_128
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1856
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2311333389cb6ad4bb46d7a8aaa373f1
+      internalID: -583562185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_129
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1856
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07d762e408c27e49a2c7f8cf889d94d
+      internalID: -972490168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_130
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1856
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90482906d4994924c964fe2ec61b0e0d
+      internalID: -144386152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_131
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1856
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a78536c94bfafc44b6b9236f62e2b3e
+      internalID: 448080073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_132
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1856
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aefe3176cc6c0439b32b85a0692ffc
+      internalID: 1763717400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_133
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1794
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98addcb38a2d918428b9c87d552acc1d
+      internalID: 876440106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1794
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d519b990b6c9409afd08bacdb2d1e
+      internalID: 992920355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1794
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6aead4e4564b14a812c258905a1341
+      internalID: -1257700218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1794
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c1c95a767190543b50bfa188eb59a4
+      internalID: 1258625233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1794
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfe948d6dea77240883ece0c8dca6bb
+      internalID: 548972573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1794
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8771ec4e55196cd4f9151a26a4b21cfa
+      internalID: -1712106444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1794
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017aa824f3cea7e4e9569545ba8f575a
+      internalID: 1640048178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1794
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef295acf74dbeb4ba23accbb09c6998
+      internalID: -1351563723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1794
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b220a9fdc01644d9f57ab36b430002
+      internalID: -142729706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1794
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c01e79595f61cd43a019e4ffe720d80
+      internalID: 284909289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1794
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffa930879f3a414c87bf15d2287be6d
+      internalID: 1079375298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1794
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe05a2a3ffc99b4db96b3b72ab21d6f
+      internalID: -131191724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1794
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaeee353306a5b4fa256b4d4bb4dc95
+      internalID: -698398312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1730
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e347d1a493328f4a9ff24826ca90746
+      internalID: -5372311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1731
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe67ce8d53f72ea4290fea67751d0f5e
+      internalID: -21274421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1731
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90afd37e11d34c54bab2ed602395dd58
+      internalID: -1502369663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1730
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674e67cba4ac81d469a9640f4dd6eff6
+      internalID: 799297758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1730
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94f8f58edca75246b9375f1e3c95184
+      internalID: 487986007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1730
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add3f470f44067b4ab6e41ba850850ee
+      internalID: 307731583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1730
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f689b4f11bf20a4a9bcf64afa1b6d6d
+      internalID: -1211320246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1730
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecb3621f38fff04b878d3217a41d049
+      internalID: 654886957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1730
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64544dd9f1f1cb4caddf3aa95114bf7
+      internalID: -1972577840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1730
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb89393549d0eb4da9049ef449e1c2d
+      internalID: -1690988788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1730
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4646836f81ad43f4da763d83d74ec0a5
+      internalID: 1141128064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_157
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1730
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b75de7f74065834a900b50d19e9cb67
+      internalID: 628986658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1730
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a25fe12d5098a84aaa6f3fcd1a5942e
+      internalID: -448295858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1666
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb260e51e1ac364baf34318435254a3
+      internalID: 1918506955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1666
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1b370c629b389489b338ada7e8c50a
+      internalID: 802090616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1666
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5eaa52c673c2645aaac217505db481
+      internalID: 431985919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1666
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746c24186db65a54a9a6547dca066910
+      internalID: -1643565829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1666
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e23203102f8ab64e99ebb3f6e04ba67
+      internalID: -2041415099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1666
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa21b5194160ff4fb1948d64b40ee79
+      internalID: 1022537367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1666
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5850db4934020a64cbf57db651fa04ba
+      internalID: -1117206149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1666
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b37af4b4d1d5d5499167f2dab624960
+      internalID: -1296348165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1666
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cfca9b0eefa3a41b5061abb3a9f5dc
+      internalID: -559412905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1666
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f9b8974714c4a4c82fad503b932977
+      internalID: 244887101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1666
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e5db0936ce394c9ae2087695eb635
+      internalID: -1563433101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1666
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dd2e86375806542b01437b5f97d637
+      internalID: 837992321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1666
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f1547cb318c714bad8740663240c26
+      internalID: 1717898227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1602
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7151df68bfe2a242ad86cff3ab682f2
+      internalID: 129248416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1602
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a94e1769e1bc54428bef8bdb420e33f
+      internalID: -610784715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1602
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62e04902d4142a4db5aca6f98da89d5
+      internalID: 2105831392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1603
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4b15e96eed5354dbcb66b2cd1e3965
+      internalID: 1117491858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1603
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc874a91a800734997eb246eb760104
+      internalID: -656601592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1601
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b7b2e74e2e6f0428e649ae719baaaa
+      internalID: 916478642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_178
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1539
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b11b26913a03384eb52ce7312417df9
+      internalID: 1175702518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_179
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1538
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20004a345a57e744a887ffdfec128aee
+      internalID: 1583072555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_180
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1542
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb7a208603120a41baf6b43b6b30c9d
+      internalID: 158379876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_181
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1539
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da5a37fb1c9c0547a209cdd2175d327
+      internalID: 211344307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_182
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1538
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcdfe092f8377842b374ae35248a707
+      internalID: 1905899917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_183
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1542
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15492295e9a660941bcae40b08e761ac
+      internalID: 802818974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_184
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1474
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c39b677905ebb2409940491acff911e
+      internalID: -802941051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_185
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1474
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c3049cb11bf1b4b93be7c457d8c308
+      internalID: -1281578834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_186
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1474
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f4c0ab9c686974b968a72db3776851
+      internalID: -990364091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_187
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1474
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6702b28a103bfa34abaceceedcd7e35d
+      internalID: -1508042632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_188
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1410
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a412c50bb7a5b9a4989a5408d92fe4c7
+      internalID: -367683615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_189
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1410
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23bcf69a97351043a602419bb306798
+      internalID: 175224264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_190
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1410
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c919b71d14e4a4a43a1d0a3f778cbc62
+      internalID: -431133803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_191
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1410
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaecbe5678bb6f408d5096d7720cec0
+      internalID: 669383927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_192
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1346
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee4693b0d00d19468694dd9cbc6937f
+      internalID: 2048867267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_193
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1346
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c04fb026663e74498051d2348e54f99
+      internalID: -164051934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_194
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1345
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea665807e312c8419105384317055dc
+      internalID: 1109269507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_195
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1345
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e64260713dc89439727b7ce9cdc985
+      internalID: -682126118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_196
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1282
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e7ead2408a6f04ea2107b0905d8f84
+      internalID: 1469180764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_197
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1282
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697504b2d402e4846b734f6828a68f63
+      internalID: 568801167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_198
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1282
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adaa3e04a28a1042b281c8122e3b568
+      internalID: -766324935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_199
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1282
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f0fea0119045d408544b2fe5425dba
+      internalID: 2079225276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_200
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1218
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5919e573d857847a4c0fd48c25f05c
+      internalID: 907293192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_201
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1218
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b6263e6236f5848aeee5ee2154820e
+      internalID: -1662916808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_202
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1219
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c0b464ac708dc4597dc82b3c96a32e
+      internalID: 719803144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_203
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1226
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba87babb69fa4b4392847af1da298eb
+      internalID: -181427657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_204
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1222
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f9a98b9e460aa43a9186c45f40f2b5
+      internalID: -933441112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_205
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1154
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb52c1a008002447b61945ee6166af9
+      internalID: -1496838313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_206
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1154
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5dfd369c924d140a74bbd476e589db
+      internalID: 1088030072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_207
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1156
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ba0a527c7088c468e439d59431cb00
+      internalID: 722424591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_208
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1157
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763e446003352cc41a5e3cc9b1b56f22
+      internalID: 1270696781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_209
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1154
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac12cab113d0591469575b86489a54cd
+      internalID: 1037453001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_210
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1090
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328599668b5c72745b2744336449b3e5
+      internalID: 1338838856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_211
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1090
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3b6f3097db2d54b8645b4b226ec2dc
+      internalID: -747844512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_212
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1092
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e7d518e8e67c3459aaf968a122aec0
+      internalID: 81445101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_213
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1096
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04609518b3ca3b549984735a1288266e
+      internalID: -190175793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_214
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1093
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c9c9d741563fa4aaa422d883e11b15
+      internalID: 2107545107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_215
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1026
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74caa09df46c8524eb915332fe5d4915
+      internalID: -1237849251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_216
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1026
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798f3bd8bb73e9c419d99702b43f8b99
+      internalID: -928798970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_217
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1028
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8b2decb8687044b813fd66f609cd7d
+      internalID: 1095688651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_218
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1029
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2b31916a5436d40a51cf2e78aa0e4a
+      internalID: 563129805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_219
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1026
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942e31cb1ced3814995a58f9f85b360f
+      internalID: -807892010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_220
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 962
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6313e5963246dc24290820f90186708b
+      internalID: -1223393409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_221
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 962
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3468ccc712a9b4d469d0b8d247acb82a
+      internalID: -340098868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_222
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 972
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178564a50906adb40a4f30e44b501977
+      internalID: -1107909151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_223
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 962
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92302d459863dc4ab051192d43cdc17
+      internalID: -489952930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_224
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 962
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7723187b961fdfe4d9da193485ae6a91
+      internalID: -1598278557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_225
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 962
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9051d016cce46ce41a9946157ed0d8a8
+      internalID: -1534041837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_226
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 899
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3148bfa64a6f4dc4bb878a0d0cc09197
+      internalID: -44021796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_227
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 898
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f360778e4560846b0ac6002b8651f5
+      internalID: 1622960368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_228
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 900
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb15fd1aec9b384d84a648a5f776d70
+      internalID: -1870030587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_229
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 898
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3292603b0dc5af149bd6a13a9914f4bb
+      internalID: -763773965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_230
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 898
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63c10e06105a9847a81b679b6022e11
+      internalID: 683858922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_231
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 898
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101b37aace9e9ab4db91a00b38a2f8a8
+      internalID: 1946095635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_232
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 834
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ec6c36d836c5642b049e0127bbeeac
+      internalID: 1683149554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_233
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 834
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c932517d48c087744a4eb080efbd7a2f
+      internalID: -434454270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_234
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 834
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e0f85ff422c474cbb165723a5cfeab
+      internalID: -1733729439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_235
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 834
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d8d16b1fb503442a13719d352e99fd
+      internalID: -554046938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_236
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 834
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d690f9be6f25f0e4fb87e48110c927ae
+      internalID: 356668253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_237
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 834
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558aeb756662581478ee84ed1100a790
+      internalID: -508954675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_238
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 771
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12c18cdb8e1a844aba25ee193be8bf1
+      internalID: -860547958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_239
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 770
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091d9526e19ff224c9caf7531739c844
+      internalID: 1250960915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_240
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 772
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99933ae08e513ef4c9275370a11e2bc2
+      internalID: -1791034805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_241
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 770
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca95442cddc7404b929f0309f4dd3ad
+      internalID: 433033847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_242
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 770
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a283ca55296bc4eaa32ccc29e8ff2b
+      internalID: -233467871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_243
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 770
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0515a99ecf4222409012f0af8130baa
+      internalID: -754652077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_244
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 707
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a028ed3a41d2ba64e964b01f1dac87c8
+      internalID: -502474543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_245
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 704
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5c9b127405f2b4cadde2dc1afef629
+      internalID: 896612716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_246
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 704
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d973b98b5212d4081d4f4dd4139abf
+      internalID: 1221820441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_247
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 704
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ca4c45df26c0846b1425a053744dea
+      internalID: -190599967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_248
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 707
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7957414e7d3ec4d4382b2d6e5f8439dd
+      internalID: -837894538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_249
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 704
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741b29020eaf8a342a7ce37bcab7c816
+      internalID: -240439339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_250
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 704
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e13107c46b359f4d887e581de4ed9cd
+      internalID: -1057765391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_251
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 704
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056c2c83b5d29154288b488a8d6c9700
+      internalID: 789343793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_252
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 642
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c794b55d1510514f8728461f2fc6587
+      internalID: 2080237992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_253
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 641
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0bd6716943a141a6dd68a4dfd6792
+      internalID: -879113588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_254
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 641
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70db9f8f3ca134e9770792c1045b37
+      internalID: 77954264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_255
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 645
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2249486884fa148a56ff5d59f20e6e
+      internalID: -521293490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_256
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 642
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2baa242b67f5fb47a901cb8bc43c62c
+      internalID: -1014649528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_257
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 641
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d184eb643576044981fd3bbef521759
+      internalID: -293221222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_258
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 641
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c64e0913b09be4ba386c3556787358
+      internalID: 1202671136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_259
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 643
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c1e4b7cd8f01a48a7f119384c01045
+      internalID: -1831810501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_260
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 576
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1efc2611502fbb43b443926d14ff612
+      internalID: 1362164060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_261
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 576
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb39423b535388e4290ba1396b12f861
+      internalID: -977071043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_262
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 575
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b918f3ef22fec194a961d338e81fa65e
+      internalID: 711815529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_263
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 580
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937526a4b77d98d48b0f824853294431
+      internalID: -1170003949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_264
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 576
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5609053a28ba224395ccc9ce55789b4
+      internalID: 1044013536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_265
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 576
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cbf2660c4bde342a3fdfcf09dfda3e
+      internalID: -1669958378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_266
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 577
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbecb3f43ab585346acf2d5350472d5e
+      internalID: -1406811967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_267
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 580
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31b068d8bdb8a24ba3633a438bc3736
+      internalID: -523005632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_268
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1844d7fd4386947b455cb2ba1faf35
+      internalID: 792263315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_269
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 513
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12542c93963d3b47bc48e7c85b71913
+      internalID: 353306889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_270
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 513
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6bdeff8114c0f4086eafaa800ef96c
+      internalID: 437214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_271
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 517
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c61c86861237bf46bbc702d7836f1c3
+      internalID: 798791866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_272
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 514
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7698232d65e8bfb4ea496d50803cd6e1
+      internalID: -992391565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_273
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 513
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491f88b86829ff44a791087ce23df98
+      internalID: -925792402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_274
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 513
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f33e90d93009874aa702c348b04470e
+      internalID: -679702210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_275
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 515
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d30000414a41ac4fa1cfc7e000d0c21
+      internalID: 1664610316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_276
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 449
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e2c0a89aecc8e40a34f6350d0514b2
+      internalID: 366595863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_277
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 450
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6884ab0b1d73e49b4045322b6b777f
+      internalID: 1503227248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_278
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 462
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9971ff6c8dbaad74d83d80f5679f76b7
+      internalID: -156695022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_279
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 466
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641feddcb7202364db20ddb1307fa9ad
+      internalID: -928806177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_280
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 450
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fa2ae4010741c4687da7da3d1498b9
+      internalID: -1739421318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_281
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 450
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaddfe91762e3c41a6bde777c4070c6
+      internalID: 807427711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_282
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 450
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91cb1e0164bc2640b164725a7f25737
+      internalID: 844211656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_283
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 450
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5380fb9309eaaa14f8aab0ca6e84a64f
+      internalID: 191649628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_284
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 450
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9045ee2d0c47814f9a35fac4d9b6b5e
+      internalID: 718226052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_285
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 450
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eb6d2004fa3cf47a9f4434e87a937f
+      internalID: -2018806466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_286
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 450
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df93725a5b87ea044a8df6286c1a312c
+      internalID: -446605378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_287
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 450
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c547a4a181d29d74288a7fd2419965e7
+      internalID: -881114502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_288
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 450
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be915da7f97dc747b9274fee764a510
+      internalID: -1435656958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_289
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 450
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb0e5be7da20104894f4236f505970d
+      internalID: 1210195517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_290
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 450
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e1168cddc1a9439712de9d232bc9b
+      internalID: 1161763143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_291
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 386
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c25dce657a4625488f585de725d4742
+      internalID: -738868703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_292
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 386
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6351fffd9169844bf0445f2ee6f431
+      internalID: 182208669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_293
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 435
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3ca2144c96a5046b4f0eb7280eb818
+      internalID: 2004317597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_294
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 386
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f651d490a86c342b40b96166f92610
+      internalID: -2127655585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_295
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 435
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2ba3154a01e484996a2a655eeca33d
+      internalID: -1446624574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_296
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 386
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a722094f43b89e24da2534b3ab764fb6
+      internalID: -445915971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_297
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 435
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1923a7870bb5ac499b9202e03d48839
+      internalID: 1097787828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_298
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 386
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02184d25c6315204db1e8911f4fb169f
+      internalID: 876040098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_299
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 386
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf6935a72caf8344b63bc86a83e1fed
+      internalID: 1671286090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_300
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 386
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4280e42c9b20bcc4aa76100f2b8ea76c
+      internalID: -980871819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_301
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 386
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ea39f2f55f6d540af64c8c75d0d355
+      internalID: -1537536856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_302
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 386
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e679f7bc044cb54f95d8740c8e1afba
+      internalID: -1122306488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_303
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 386
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e9780ca0eb4a14dafc2c07eaa62c4b
+      internalID: -1032962945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_304
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 386
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f6f87fffaabc441a34c31310692de9
+      internalID: 1612422442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_305
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 404
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae4446c5e7454c43bc315ce0751d600
+      internalID: -2042423253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_306
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 386
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4d0922ed366584b86b3f477988a70e
+      internalID: -1992511138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_307
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 407
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb1a9794dcc39347b3d2ba5ddd8c070
+      internalID: 393486941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_308
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 386
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8882db621a20feb4ea5ed42c4552a695
+      internalID: -153736949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_309
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 321
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36274468e107116448bf9b3aa60f2561
+      internalID: 1189367335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_310
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 321
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2718deeb0985cd1459a9018e74cedb00
+      internalID: 235021468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_311
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 321
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a1884f57def940bbac4d37dd4f1f8
+      internalID: -812733057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_312
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 321
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64321e56f17a67245b55df36913602ae
+      internalID: 2065464657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_313
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 321
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f579cd7c9a1e042976b62d028407e7
+      internalID: -282680182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_314
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 321
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eef73102ff599439e347bdebcf5ed4
+      internalID: -138024166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_315
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 321
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b314c28a92ecc9847b25503e514d0e34
+      internalID: -164232640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_316
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 321
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46559903add593b40889481efa47d27b
+      internalID: 1829348817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_317
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 321
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4097967efed627e46a334cc189943316
+      internalID: 1523764221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_318
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 321
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9b2cb7214050546b8b32703b9c806c
+      internalID: 483512571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_319
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 321
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e02a0c044d24b84eb49d93bbeaedd54
+      internalID: 104356745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_320
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 321
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9046baef8fa80684193485c273dcceb3
+      internalID: 1614073967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_321
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 321
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25400f11f8d0b50408b5f4972ca5d632
+      internalID: -1894766929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_322
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809a32aa12b14f144a49a9953283eecd
+      internalID: -342961154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_323
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 258
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c1d323906250e4aab3a7ed22d3fe0b
+      internalID: 601356165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_324
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 258
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20f1c25d18c9cb45b73ff69b15a1466
+      internalID: 1660319395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_325
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 307
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ada8343e493a44fbcce0dae6f715fb
+      internalID: -1233894389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_326
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 258
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef065f1023308a04cba7e0fd821e903f
+      internalID: -1927763152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_327
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 307
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5778519dbabe30a46a3d09edf7b3618d
+      internalID: -2114762149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_328
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 258
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf5c8b5412545c4a9a130527c75c94d
+      internalID: -43663015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_329
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 307
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351308db94728414599773ce02ca0ac2
+      internalID: 1177944183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_330
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 258
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158e54364ee5c874eb1c8bd0dfbc418f
+      internalID: -2089778398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_331
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 258
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20160172b9c009840989a8e4edc98975
+      internalID: -99380313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_332
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 258
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c16ed84dff72a418d49bbf19a93e92
+      internalID: -1927963941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_333
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 258
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed671507a2a8be749bd8715bf4752469
+      internalID: 902602958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_334
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 258
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9adc47d84656044ad2332c55d511b0
+      internalID: -852724025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_335
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 258
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9540afafdb323bb42b3b1b88881cfee6
+      internalID: 715852394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_336
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 279
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1264febe783f3a64081d50a8dd0d3f43
+      internalID: 1549116519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_337
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 258
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e4b0e964e1cb24493290bdd70ebbaa
+      internalID: 76018548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_338
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 276
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116728203a75a7442af939fc0c09dc1f
+      internalID: 737276084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_339
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 258
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482b85705e2b4534296d6f4db81cdf25
+      internalID: 1911747528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_340
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 193
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b42999343c8cdd4da79bdc55a3b0f89
+      internalID: -451045945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_341
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 194
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1658c10b005cf8b46b7accbee70dfd43
+      internalID: -50258867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_342
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 195
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99abb7e50dab0d245b66e0320888f0c3
+      internalID: -273539884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_343
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 196
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48128a1c213f7b14cbe461900f67f251
+      internalID: -2053220262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_344
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 196
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e39bfbaa1864894ba7635bcd42567a0
+      internalID: -1450790775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_345
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 194
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b16b68e4f6238b498a53e7bd7a2e5c3
+      internalID: -463520072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_346
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79012c3e3b7bcc4b8f5c1f7b32fee6c
+      internalID: -1874581104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_347
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 148
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceecd4eabc507944bf2666c02e1f7ea
+      internalID: -529927192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_348
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e95241466ddb64097bde2ce870360a
+      internalID: -204254253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_349
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 128
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e169d4ed8f01b843a035ac45516dbb0
+      internalID: -1345236361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_350
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e26264d5cf1164580dc332bda25df6
+      internalID: -1279044051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_351
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 128
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7546b79c94bd344f96e3550c5176a6d
+      internalID: 2013174047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_352
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 148
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d94350c1efd8944f9260127aa0b0f61
+      internalID: 40739943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_353
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 128
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847c247455d458d428096f57e2a4ad03
+      internalID: -151969615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_354
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 65
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5568e4f51981c54cb07cbdde1b951c7
+      internalID: 31709989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_355
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814e1c6c00a21a64786f982d0bc686c0
+      internalID: 1083244259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_356
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 65
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861c80b32627e7c4e9abcea65372a807
+      internalID: 228354489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_357
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 65
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7f38f4b01586449950133b933ee94e
+      internalID: -657011366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_358
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 65
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f5199c93d62c14682d0d4d3a804ae2
+      internalID: -1781399814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_359
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 65
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8800552b578206a46bec94613b766d07
+      internalID: 630806448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_360
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4582719c1e778b4c9d513038cd59bc3
+      internalID: 1672900967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_361
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ef106b23e76134b9036ba71dfafb23
+      internalID: -789018608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_362
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75e2ab7243c39642817a7433138c68f
+      internalID: -1986768470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_363
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817356397d4962e4a9e812da7f1a04bd
+      internalID: 943579538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_364
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb4b8e75a21c16499c0d44a27dd187f
+      internalID: -1476312008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_365
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd6e5a87b7b23747a3e50a7ec604dce
+      internalID: 1051914090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_366
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d353f1670770f84b889812ed2ce08f9
+      internalID: -1099198296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PNJ_Hector_367
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 20
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e9928b9adac2e4ab25c895662a8a70
+      internalID: -2130684611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PNJ_Hector_345: -463520072
+      PNJ_Hector_72: 1467090364
+      PNJ_Hector_270: 437214
+      PNJ_Hector_217: 1095688651
+      PNJ_Hector_8: -244474862
+      PNJ_Hector_105: 1139371121
+      PNJ_Hector_172: 129248416
+      PNJ_Hector_293: 2004317597
+      PNJ_Hector_218: 563129805
+      PNJ_Hector_216: -928798970
+      PNJ_Hector_284: 718226052
+      PNJ_Hector_235: -554046938
+      PNJ_Hector_357: -657011366
+      PNJ_Hector_193: -164051934
+      PNJ_Hector_316: 1829348817
+      PNJ_Hector_175: 1117491858
+      PNJ_Hector_107: -1546851196
+      PNJ_Hector_341: -50258867
+      PNJ_Hector_265: -1669958378
+      PNJ_Hector_247: -190599967
+      PNJ_Hector_279: -928806177
+      PNJ_Hector_252: 2080237992
+      PNJ_Hector_209: 1037453001
+      PNJ_Hector_188: -367683615
+      PNJ_Hector_328: -43663015
+      PNJ_Hector_144: -131191724
+      PNJ_Hector_17: 986678734
+      PNJ_Hector_312: 2065464657
+      PNJ_Hector_139: 1640048178
+      PNJ_Hector_300: -980871819
+      PNJ_Hector_49: 1253284321
+      PNJ_Hector_269: 353306889
+      PNJ_Hector_197: 568801167
+      PNJ_Hector_99: -2071547
+      PNJ_Hector_183: 802818974
+      PNJ_Hector_104: 1151728685
+      PNJ_Hector_354: 31709989
+      PNJ_Hector_236: 356668253
+      PNJ_Hector_145: -698398312
+      PNJ_Hector_356: 228354489
+      PNJ_Hector_233: -434454270
+      PNJ_Hector_276: 366595863
+      PNJ_Hector_220: -1223393409
+      PNJ_Hector_67: -1157857011
+      PNJ_Hector_143: 1079375298
+      PNJ_Hector_56: -277621467
+      PNJ_Hector_109: -1432521880
+      PNJ_Hector_266: -1406811967
+      PNJ_Hector_205: -1496838313
+      PNJ_Hector_79: 91234453
+      PNJ_Hector_40: 112828525
+      PNJ_Hector_14: 590551069
+      PNJ_Hector_329: 1177944183
+      PNJ_Hector_135: -1257700218
+      PNJ_Hector_60: 339083818
+      PNJ_Hector_15: 1227111214
+      PNJ_Hector_97: -1878254719
+      PNJ_Hector_298: 876040098
+      PNJ_Hector_237: -508954675
+      PNJ_Hector_280: -1739421318
+      PNJ_Hector_256: -1014649528
+      PNJ_Hector_16: -753956907
+      PNJ_Hector_121: 250766804
+      PNJ_Hector_336: 1549116519
+      PNJ_Hector_290: 1161763143
+      PNJ_Hector_31: 580498773
+      PNJ_Hector_47: -1968919143
+      PNJ_Hector_70: -932070377
+      PNJ_Hector_281: 807427711
+      PNJ_Hector_53: -1237154431
+      PNJ_Hector_76: -368650046
+      PNJ_Hector_185: -1281578834
+      PNJ_Hector_117: 810019002
+      PNJ_Hector_311: -812733057
+      PNJ_Hector_166: -1296348165
+      PNJ_Hector_51: -169548839
+      PNJ_Hector_25: -797885435
+      PNJ_Hector_181: 211344307
+      PNJ_Hector_154: -1972577840
+      PNJ_Hector_304: 1612422442
+      PNJ_Hector_225: -1534041837
+      PNJ_Hector_162: -1643565829
+      PNJ_Hector_347: -529927192
+      PNJ_Hector_263: -1170003949
+      PNJ_Hector_240: -1791034805
+      PNJ_Hector_201: -1662916808
+      PNJ_Hector_43: 2127670615
+      PNJ_Hector_332: -1927963941
+      PNJ_Hector_314: -138024166
+      PNJ_Hector_348: -204254253
+      PNJ_Hector_90: 481559976
+      PNJ_Hector_278: -156695022
+      PNJ_Hector_313: -282680182
+      PNJ_Hector_320: 1614073967
+      PNJ_Hector_58: 632674348
+      PNJ_Hector_303: -1032962945
+      PNJ_Hector_307: 393486941
+      PNJ_Hector_140: -1351563723
+      PNJ_Hector_296: -445915971
+      PNJ_Hector_161: 431985919
+      PNJ_Hector_350: -1279044051
+      PNJ_Hector_21: -1210448231
+      PNJ_Hector_77: -1127530996
+      PNJ_Hector_59: 466986636
+      PNJ_Hector_13: 1205862408
+      PNJ_Hector_134: 992920355
+      PNJ_Hector_192: 2048867267
+      PNJ_Hector_258: 1202671136
+      PNJ_Hector_55: 1693418624
+      PNJ_Hector_267: -523005632
+      PNJ_Hector_19: 1270390660
+      PNJ_Hector_9: 1326359265
+      PNJ_Hector_129: -972490168
+      PNJ_Hector_187: -1508042632
+      PNJ_Hector_110: 1322008178
+      PNJ_Hector_182: 1905899917
+      PNJ_Hector_1: 961739504
+      PNJ_Hector_87: -526282373
+      PNJ_Hector_4: -2073399270
+      PNJ_Hector_324: 1660319395
+      PNJ_Hector_48: -77940412
+      PNJ_Hector_91: 1902062238
+      PNJ_Hector_68: 1169775231
+      PNJ_Hector_288: -1435656958
+      PNJ_Hector_62: -2125363482
+      PNJ_Hector_149: 799297758
+      PNJ_Hector_142: 284909289
+      PNJ_Hector_289: 1210195517
+      PNJ_Hector_116: -1541477461
+      PNJ_Hector_191: 669383927
+      PNJ_Hector_64: -1783205167
+      PNJ_Hector_119: 630760436
+      PNJ_Hector_136: 1258625233
+      PNJ_Hector_177: 916478642
+      PNJ_Hector_152: -1211320246
+      PNJ_Hector_325: -1233894389
+      PNJ_Hector_291: -738868703
+      PNJ_Hector_262: 711815529
+      PNJ_Hector_137: 548972573
+      PNJ_Hector_203: -181427657
+      PNJ_Hector_78: -1528702116
+      PNJ_Hector_30: -938653264
+      PNJ_Hector_321: -1894766929
+      PNJ_Hector_157: 628986658
+      PNJ_Hector_334: -852724025
+      PNJ_Hector_123: -1564837193
+      PNJ_Hector_141: -142729706
+      PNJ_Hector_232: 1683149554
+      PNJ_Hector_2: 1041483438
+      PNJ_Hector_255: -521293490
+      PNJ_Hector_89: -1680433735
+      PNJ_Hector_169: -1563433101
+      PNJ_Hector_219: -807892010
+      PNJ_Hector_125: 325721689
+      PNJ_Hector_195: -682126118
+      PNJ_Hector_248: -837894538
+      PNJ_Hector_93: -1465712130
+      PNJ_Hector_208: 1270696781
+      PNJ_Hector_92: 1272024131
+      PNJ_Hector_113: 611894644
+      PNJ_Hector_327: -2114762149
+      PNJ_Hector_159: 1918506955
+      PNJ_Hector_85: -1842663010
+      PNJ_Hector_286: -446605378
+      PNJ_Hector_171: 1717898227
+      PNJ_Hector_160: 802090616
+      PNJ_Hector_26: -1586761908
+      PNJ_Hector_231: 1946095635
+      PNJ_Hector_41: 690597983
+      PNJ_Hector_274: -679702210
+      PNJ_Hector_241: 433033847
+      PNJ_Hector_131: 448080073
+      PNJ_Hector_272: -992391565
+      PNJ_Hector_42: -618036939
+      PNJ_Hector_277: 1503227248
+      PNJ_Hector_342: -273539884
+      PNJ_Hector_108: -664872307
+      PNJ_Hector_287: -881114502
+      PNJ_Hector_271: 798791866
+      PNJ_Hector_227: 1622960368
+      PNJ_Hector_189: 175224264
+      PNJ_Hector_74: -651550093
+      PNJ_Hector_196: 1469180764
+      PNJ_Hector_364: -1476312008
+      PNJ_Hector_5: -892580547
+      PNJ_Hector_323: 601356165
+      PNJ_Hector_118: -1935849155
+      PNJ_Hector_251: 789343793
+      PNJ_Hector_128: -583562185
+      PNJ_Hector_210: 1338838856
+      PNJ_Hector_207: 722424591
+      PNJ_Hector_69: 299233321
+      PNJ_Hector_250: -1057765391
+      PNJ_Hector_326: -1927763152
+      PNJ_Hector_130: -144386152
+      PNJ_Hector_35: 1960746799
+      PNJ_Hector_167: -559412905
+      PNJ_Hector_39: -641772003
+      PNJ_Hector_221: -340098868
+      PNJ_Hector_239: 1250960915
+      PNJ_Hector_29: 1046133232
+      PNJ_Hector_259: -1831810501
+      PNJ_Hector_238: -860547958
+      PNJ_Hector_365: 1051914090
+      PNJ_Hector_362: -1986768470
+      PNJ_Hector_245: 896612716
+      PNJ_Hector_282: 844211656
+      PNJ_Hector_95: -540312888
+      PNJ_Hector_36: 683190211
+      PNJ_Hector_148: -1502369663
+      PNJ_Hector_306: -1992511138
+      PNJ_Hector_283: 191649628
+      PNJ_Hector_234: -1733729439
+      PNJ_Hector_178: 1175702518
+      PNJ_Hector_257: -293221222
+      PNJ_Hector_22: 1334854872
+      PNJ_Hector_96: -792793231
+      PNJ_Hector_100: -1983510129
+      PNJ_Hector_45: 315140486
+      PNJ_Hector_153: 654886957
+      PNJ_Hector_84: 1619940846
+      PNJ_Hector_94: 1169184345
+      PNJ_Hector_335: 715852394
+      PNJ_Hector_133: 876440106
+      PNJ_Hector_273: -925792402
+      PNJ_Hector_308: -153736949
+      PNJ_Hector_106: 1376259981
+      PNJ_Hector_202: 719803144
+      PNJ_Hector_75: 1857054980
+      PNJ_Hector_138: -1712106444
+      PNJ_Hector_363: 943579538
+      PNJ_Hector_10: 1787649355
+      PNJ_Hector_224: -1598278557
+      PNJ_Hector_244: -502474543
+      PNJ_Hector_226: -44021796
+      PNJ_Hector_319: 104356745
+      PNJ_Hector_214: 2107545107
+      PNJ_Hector_246: 1221820441
+      PNJ_Hector_112: 1354570949
+      PNJ_Hector_261: -977071043
+      PNJ_Hector_215: -1237849251
+      PNJ_Hector_343: -2053220262
+      PNJ_Hector_32: -11251460
+      PNJ_Hector_206: 1088030072
+      PNJ_Hector_163: -2041415099
+      PNJ_Hector_349: -1345236361
+      PNJ_Hector_61: 1455954673
+      PNJ_Hector_315: -164232640
+      PNJ_Hector_179: 1583072555
+      PNJ_Hector_264: 1044013536
+      PNJ_Hector_46: -448422576
+      PNJ_Hector_54: -668065076
+      PNJ_Hector_309: 1189367335
+      PNJ_Hector_66: 800041395
+      PNJ_Hector_360: 1672900967
+      PNJ_Hector_176: -656601592
+      PNJ_Hector_122: 60705296
+      PNJ_Hector_0: -1425495923
+      PNJ_Hector_114: -902787260
+      PNJ_Hector_165: -1117206149
+      PNJ_Hector_6: -469512366
+      PNJ_Hector_331: -99380313
+      PNJ_Hector_37: 750865316
+      PNJ_Hector_101: 1790784222
+      PNJ_Hector_151: 307731583
+      PNJ_Hector_344: -1450790775
+      PNJ_Hector_71: -1022647109
+      PNJ_Hector_340: -451045945
+      PNJ_Hector_212: 81445101
+      PNJ_Hector_18: 1450708661
+      PNJ_Hector_63: -526620891
+      PNJ_Hector_268: 792263315
+      PNJ_Hector_223: -489952930
+      PNJ_Hector_295: -1446624574
+      PNJ_Hector_317: 1523764221
+      PNJ_Hector_86: 628970563
+      PNJ_Hector_168: 244887101
+      PNJ_Hector_52: 799209122
+      PNJ_Hector_213: -190175793
+      PNJ_Hector_355: 1083244259
+      PNJ_Hector_292: 182208669
+      PNJ_Hector_352: 40739943
+      PNJ_Hector_330: -2089778398
+      PNJ_Hector_228: -1870030587
+      PNJ_Hector_366: -1099198296
+      PNJ_Hector_80: 1350859713
+      PNJ_Hector_158: -448295858
+      PNJ_Hector_146: -5372311
+      PNJ_Hector_198: -766324935
+      PNJ_Hector_285: -2018806466
+      PNJ_Hector_186: -990364091
+      PNJ_Hector_297: 1097787828
+      PNJ_Hector_230: 683858922
+      PNJ_Hector_170: 837992321
+      PNJ_Hector_302: -1122306488
+      PNJ_Hector_147: -21274421
+      PNJ_Hector_301: -1537536856
+      PNJ_Hector_318: 483512571
+      PNJ_Hector_333: 902602958
+      PNJ_Hector_132: 1763717400
+      PNJ_Hector_127: 1033701930
+      PNJ_Hector_200: 907293192
+      PNJ_Hector_346: -1874581104
+      PNJ_Hector_180: 158379876
+      PNJ_Hector_337: 76018548
+      PNJ_Hector_361: -789018608
+      PNJ_Hector_155: -1690988788
+      PNJ_Hector_111: -873661268
+      PNJ_Hector_11: 1782999905
+      PNJ_Hector_194: 1109269507
+      PNJ_Hector_20: 102187882
+      PNJ_Hector_24: -1921099372
+      PNJ_Hector_88: -1031156731
+      PNJ_Hector_173: -610784715
+      PNJ_Hector_243: -754652077
+      PNJ_Hector_253: -879113588
+      PNJ_Hector_38: 2034365375
+      PNJ_Hector_260: 1362164060
+      PNJ_Hector_120: 295369006
+      PNJ_Hector_44: -1951163455
+      PNJ_Hector_359: 630806448
+      PNJ_Hector_28: -896528600
+      PNJ_Hector_322: -342961154
+      PNJ_Hector_294: -2127655585
+      PNJ_Hector_3: -459268699
+      PNJ_Hector_27: -1295924733
+      PNJ_Hector_156: 1141128064
+      PNJ_Hector_310: 235021468
+      PNJ_Hector_126: -1338268403
+      PNJ_Hector_115: -233959470
+      PNJ_Hector_338: 737276084
+      PNJ_Hector_103: 247117542
+      PNJ_Hector_57: 1375124740
+      PNJ_Hector_249: -240439339
+      PNJ_Hector_204: -933441112
+      PNJ_Hector_367: -2130684611
+      PNJ_Hector_275: 1664610316
+      PNJ_Hector_50: -262195413
+      PNJ_Hector_164: 1022537367
+      PNJ_Hector_211: -747844512
+      PNJ_Hector_33: 1130218959
+      PNJ_Hector_353: -151969615
+      PNJ_Hector_98: 2095630041
+      PNJ_Hector_305: -2042423253
+      PNJ_Hector_339: 1911747528
+      PNJ_Hector_150: 487986007
+      PNJ_Hector_34: 1012822955
+      PNJ_Hector_254: 77954264
+      PNJ_Hector_124: 1229082841
+      PNJ_Hector_229: -763773965
+      PNJ_Hector_102: 1193576264
+      PNJ_Hector_222: -1107909151
+      PNJ_Hector_23: -604985089
+      PNJ_Hector_190: -431133803
+      PNJ_Hector_184: -802941051
+      PNJ_Hector_242: -233467871
+      PNJ_Hector_358: -1781399814
+      PNJ_Hector_82: 1521252241
+      PNJ_Hector_12: 782480054
+      PNJ_Hector_81: 1492460433
+      PNJ_Hector_73: 320626399
+      PNJ_Hector_174: 2105831392
+      PNJ_Hector_7: -1330223975
+      PNJ_Hector_351: 2013174047
+      PNJ_Hector_299: 1671286090
+      PNJ_Hector_65: -2000495651
+      PNJ_Hector_83: 203232319
+      PNJ_Hector_199: 2079225276
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

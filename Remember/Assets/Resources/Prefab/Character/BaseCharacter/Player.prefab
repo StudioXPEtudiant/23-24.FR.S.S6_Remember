@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 5999447816532914400}
   - component: {fileID: 2879529859603232236}
   - component: {fileID: -2650809154773524153}
+  - component: {fileID: -4771929654296601235}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -159,3 +160,29 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inventoryUI: {fileID: 0}
   isInventoryOpen: 0
+--- !u!61 &-4771929654296601235
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1356727387973196074}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.0007991791}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.9375, y: 1.46875}
+    newSize: {x: 0.9375, y: 1.46875}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.9375, y: 1.4671516}
+  m_EdgeRadius: 0
