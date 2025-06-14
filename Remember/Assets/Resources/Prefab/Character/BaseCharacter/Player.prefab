@@ -15,6 +15,8 @@ GameObject:
   - component: {fileID: 2879529859603232236}
   - component: {fileID: -2650809154773524153}
   - component: {fileID: -4771929654296601235}
+  - component: {fileID: 1019216592654810841}
+  - component: {fileID: 9090500985028193185}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -145,7 +147,8 @@ MonoBehaviour:
   animator: {fileID: 7142010624966431862}
   _walkSpeed: 4
   _sprintSpeed: 8
-  toggleInventory: {fileID: 0}
+  toggleInventory: {fileID: 9090500985028193185}
+  npcController: {fileID: 0}
 --- !u!114 &-2650809154773524153
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -186,3 +189,33 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.9375, y: 1.4671516}
   m_EdgeRadius: 0
+--- !u!114 &1019216592654810841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1356727387973196074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 348f0c9584cd2054683f5356b368ae75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 100
+  currentHealth: 0
+  player: {fileID: 0}
+  healthBar: {fileID: 0}
+--- !u!114 &9090500985028193185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1356727387973196074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72675ed696f440f4b8d3aaf2ae57ec1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventoryUI: {fileID: 0}
+  isInventoryOpen: 0

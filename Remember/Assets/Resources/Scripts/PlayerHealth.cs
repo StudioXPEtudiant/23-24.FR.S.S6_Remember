@@ -26,7 +26,7 @@ public class PlayerHealth : MonoBehaviour
     {
         if(currentHealth <= 0)
         {
-            Destroy(player); // Si la vie du joueur tombe à zero, il meurt
+            GameOver();
         }
 
         if(Input.GetKeyDown(KeyCode.K)) // pour tester la fonction TakeDamage() en appuyant sur K
@@ -39,5 +39,16 @@ public class PlayerHealth : MonoBehaviour
     {
         currentHealth -= damage;
         healthBar.SetHealth(currentHealth);
+    }
+
+    void GameOver()
+    {
+        //Time.timeScale = 0f; // Met le jeu en pause
+        Debug.Log("Game Over !");
+
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false; // Stoppe la scène 'game' si le joueur n'a plus de pv. Plus tard, mettre le jeu en pose.
+#endif
+        // a ajouter plus tard un écran de game over
     }
 }
